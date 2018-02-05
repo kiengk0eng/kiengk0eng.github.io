@@ -1,10 +1,11 @@
-Origin: Kiengk0eng
-Label: Kiengk0eng's Repo
+Origin: kiengk0eng’s Repo
+Label: kiengk0eng
 Suite: stable
 Version: 1.0
-Codename: ios
-Architectures: iphoneos-arm
+Codename: kiengk0eng
+Architecture: iphoneos-arm
 Components: main
-Description: Rock & Roll Tweak
-MD5Sum: d522533f1357a6460471cf70894d3d3f Packages
-MD5Sum: bd8da36962e013c860941707aac3e0f3 Packages.bz2
+Description: kiengkoeng’s Tweaks
+MD5Sum:
+ c4d6737d015e9f4b9f2146840e07b36e 9048 Packages
+ d2c4c7c5cf907b46b5184d50b439245d 1584 Packages.bz2
