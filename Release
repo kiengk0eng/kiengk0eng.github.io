@@ -1,0 +1,8 @@
+Origin: kiengk0eng's Repo
+Label: kiengk0eng's Official Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Rock & Roll
