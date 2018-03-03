@@ -10,7 +10,7 @@ Homepage: http://twitter.com/kiengk0eng
 Section: Entertainment
 MD5sum: 41ad6ddd07d616e1e4efa14ce9365a92
 Filename: debs//com.kiengk0eng.autorapvip_0.0.1-1_iphoneos-arm.deb
-Depictions: https://kiengk0eng.github.io/depictions/com.kiengk0eng.autorapvip/index.html
+depictions: https://kiengk0eng.github.io/depictions/com.kiengk0eng.autorapvip/index.html
 
 Package: com.kiengk0eng.colorfysubscription
 Name: colorfyPlus® (Subscription)!
