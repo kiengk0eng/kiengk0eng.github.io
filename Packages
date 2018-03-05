@@ -1,20 +1,20 @@
 Package: com.kiengk0eng.audiomack
 Name: AudioMack® (Platinum)!
-Size: 6748
+Size: 6034
 Version: 0.0.1
 Architecture: iphoneos-arm
 Description: 
 Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
 Author: Kiengk0eng <kiengk0eng@yahoo.com>
 Section: Entertainment
-MD5sum: 0094a6d5137bfa7b28e7440a407baf43
+MD5sum: 85766ee68163618ef68e63699682010b
 Filename: debs//com.kiengk0eng.autorapvip_0.0.1_iphoneos-arm.deb
-Depiction: https://kiengk0eng.github.io/depictions/autorap/index.html
+Depiction: https://kiengk0eng.github.io/depictions/auiomack/index.html
 
 Package: com.kiengk0eng.autorapvip
 Name: AutoRap® (VIP)!
 Size: 6780
-Version: 0.0.1-1
+Version: 0.0.1
 Architecture: iphoneos-arm
 Description: Play or remix with any beat from our library
 Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
