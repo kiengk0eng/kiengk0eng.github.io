@@ -84,7 +84,7 @@ Filename: debs//com.kiengk0eng.djmixpads2_0.0.1-1_iphoneos-arm.deb
 Description: Get Full Access, Update Collections of Sample & Loops, No ADS!
 Depiction: https://kiengk0eng.github.io/depictions/djmixpad2/index.html
 
-Package: com.kiengk0eng.facetunes2
+Package: com.kiengk0eng.facetune2vip
 Name: Facetune® 2 (VIP)!
 Version: 0.0.1
 Size: 8478
@@ -95,7 +95,7 @@ Author: Kiengk0eng <kiengk0eng@yahoo.com>
 Homepage: http://twitter.com/kiengk0eng
 Section: Multimedia
 MD5sum: 76c5c8e67be492698a5a4cdab725fd9e
-Filename: debs//com.kiengk0eng.facetunes2vip_0.0.1-1_iphoneos-arm.deb
+Filename: debs//com.kiengk0eng.facetune2vip_0.0.1-1_iphoneos-arm.deb
 Description: Unlimited Access, All Library of elements, VIP Icon
 Depiction: https://kiengk0eng.github.io/depictions/facetune2/index.html
 
