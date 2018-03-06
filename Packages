@@ -144,18 +144,18 @@ Filename: debs//com.kiengk0eng.guitar_0.0.1-1_iphoneos-arm.deb
 Description: All Access Pass - Unlimited access to all guitars and songs, include VIP songs!
 Depiction: https://kiengk0eng.github.io/depictions/guitar/index.html
 
-Package: com.kiengk0eng.hexatechpremium
+Package: com.kiengk0eng.hexatech
 Name: Hexatech® VPN (Premium)!
 Version: 0.0.1
-Size: 6398
+Size: 6648
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
 Author: Kiengk0eng <kiengk0eng@yahoo.com>
 Homepage: http://twitter.com/kiengk0eng
 Section: Utilities
-MD5sum: fed376ed94e4745bf3b6a527c2f7658a
-Filename: debs//com.kiengk0eng.hexatechpremium_0.0.1-1_iphoneos-arm.deb
+MD5sum: ffe0062d034abd41daea98360c63f3b4
+Filename: debs//com.kiengk0eng.hexatech_0.0.1-1_iphoneos-arm.deb
 Description: Several Location Options, Faster Connection, No ads, High Quality Support
 Depiction: https://kiengk0eng.github.io/depictions/hexatech/index.html
 
@@ -309,18 +309,18 @@ Filename: debs//com.kiengk0eng.nicefriends_0.0.1-1_iphoneos-arm.deb
 Description: Enjoy VIP Benefits, Daily Bonus Friends, Become a Verified Profile, Unlock Selected & Popular Friends, Unlock Who Viewed & Liked You, Discover People Nearby, Nearby Around The World, Advanced Search & Filter, Match Friends by Al, Hide Ads
 Depiction: https://kiengk0eng.github.io/depictions/nicefriends/index.html
 
-Package: com.kiengk0eng.noon
-Name: NOON® (Trial Patch)!
+Package: com.kiengk0eng.noonvr
+Name: NOON® VR (Trial Patch)!
 Version: 0.0.1
-Size: 6398
+Size: 5956
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
 Author: Kiengk0eng <kiengk0eng@yahoo.com>
 Homepage: http://twitter.com/kiengk0eng
 Section: Multimedia
-MD5sum: fed376ed94e4745bf3b6a527c2f7658a
-Filename: debs//com.kiengk0eng.noon_0.0.1-1_iphoneos-arm.deb
+MD5sum: a550bd3b3faf80899e3f90b5ceed05b2
+Filename: debs//com.kiengk0eng.noonvr_0.0.1-1_iphoneos-arm.deb
 Description: Kick the timer in free trial
 Depiction: https://kiengk0eng.github.io/depictions/noon/index.html
 
@@ -369,18 +369,18 @@ Filename: debs//com.kiengk0eng.pakihd_0.0.1-1_iphoneos-arm.deb
 Description: Kill Ad!
 Depiction: https://kiengk0eng.github.io/depictions/paki/index.html
 
-Package: com.kiengk0eng.pathpremium
+Package: com.kiengk0eng.path
 Name: Path® (Premium)!
 Version: 0.0.1
-Size: 6398
+Size: 6052
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
 Author: Kiengk0eng <kiengk0eng@yahoo.com>
 Homepage: http://twitter.com/kiengk0eng
 Section: Social
-MD5sum: fed376ed94e4745bf3b6a527c2f7658a
-Filename: debs//com.kiengk0eng.pathpremium_0.0.1-1_iphoneos-arm.deb
+MD5sum: d99ec7e328a848338c13e85cc53aa3c7
+Filename: debs//com.kiengk0eng.path_0.0.1-1_iphoneos-arm.deb
 Description: No ADS, Sticker, Filter, Early Access
 Depiction: https://kiengk0eng.github.io/depictions/path/index.html
 
