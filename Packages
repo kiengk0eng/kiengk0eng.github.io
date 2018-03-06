@@ -123,7 +123,7 @@ Architecture: iphoneos-arm
 Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
 Author: Kiengk0eng <kiengk0eng@yahoo.com>
 Homepage: http://twitter.com/kiengk0eng
-Section: Multimedia
+Section: Navigation
 MD5sum: cb610435b21bb1688c94fc9ed55520ca
 Filename: debs//com.kiengk0eng.flightradar24_0.0.1-1_iphoneos-arm.deb
 Description: Track flight in real-time across the globe, Get detailed flight and aircraft info each flight, Add weather and aeronautical layers, Access arrival-departure boards for airports
