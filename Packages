@@ -597,14 +597,14 @@ Depiction: https://kiengk0eng.github.io/depictions/ultimateguitar/index.html
 Package: com.kiengk0eng.vivavideovip
 Name: VivaVideo™ (VIP)!
 Version: 0.0.1
-Size: 7210
+Size: 7212
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
 Author: Kiengk0eng <kiengk0eng@yahoo.com>
 Homepage: http://twitter.com/kiengk0eng
 Section: Multimedia
-MD5sum: 3cdbefde9393c3d8263e2a7211ad4e82
+MD5sum: 8bdb1c4f684593a1a473488d18f3ca5a
 Filename: debs//com.kiengk0eng.vivavideovip_0.0.1-1_iphoneos-arm.deb
 Description: Watermark Remove, HD Export (1080), No Limite Time, No Ads, Video Adjustment, Animated Text, Free Materials Usage
 Depiction: https://kiengk0eng.github.io/depictions/vivavideo/index.html
@@ -612,14 +612,14 @@ Depiction: https://kiengk0eng.github.io/depictions/vivavideo/index.html
 Package: com.kiengk0eng.voicepremium
 Name: VoiceTranslator® (Premium)!
 Version: 0.0.1
-Size: 7062
+Size: 7066
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
 Author: Kiengk0eng <kiengk0eng@yahoo.com>
 Homepage: http://twitter.com/kiengk0eng
 Section: Productivity
-MD5sum: 276ce2e52aa44ebbec4abca47f866e15
+MD5sum: 0fe6c354ebe244b4eba6926486331e0b
 Filename: debs//com.kiengk0eng.voicepremium_0.0.1-1_iphoneos-arm.deb
 Description: No ADS, Offline Download Library, Unlimited
 Depiction: https://kiengk0eng.github.io/depictions/voice/index.html
