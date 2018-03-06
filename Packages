@@ -1,25 +1,25 @@
 Package: com.kiengk0eng.audiomack
 Name: AudioMack® (Platinum)!
-Size: 6080
+Size: 6130
 Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
 Author: Kiengk0eng <kiengk0eng@yahoo.com>
 Section: Entertainment
-MD5sum: e871e51a8e57d45523200f06db15e6f4
+MD5sum: 965bfa87b79b4a9b0ace60b4adf61b79
 Filename: debs//com.kiengk0eng.audiomack_0.0.1-1_iphoneos-arm.deb
 Description: Steam and download great new music, Save data 4 million offline song, Discover the hottest new trending music
 Depiction: https://kiengk0eng.github.io/depictions/audiomack/index.html
 
 Package: com.kiengk0eng.autorapvip
 Name: AutoRap® (VIP)!
-Size: 6864
+Size: 6876
 Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
 Author: Kiengk0eng <kiengk0eng@yahoo.com>
 Section: Entertainment
-MD5sum: f5aa61587696dc5e28934f6f18ec6156
+MD5sum: ff293aaa5c0184b65034ed9b66492bab
 Filename: debs//com.kiengk0eng.autorapvip_0.0.1-1_iphoneos-arm.deb
 Description: All Access Pass - Play or remix with any beat from our library
 Depiction: https://kiengk0eng.github.io/depictions/autorap/index.html
@@ -27,14 +27,14 @@ Depiction: https://kiengk0eng.github.io/depictions/autorap/index.html
 Package: com.kiengk0eng.boom
 Name: Boom® Player (Purchased)!
 Version: 0.0.1
-Size: 5920
+Size: 5922
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
 Author: Kiengk0eng <kiengk0eng@yahoo.com>
 Homepage: http://twitter.com/kiengk0eng
 Section: Entertainment
-MD5sum: 82f2fa25ac7d69341413da8ca3caf665
+MD5sum: 33cd98ed16c33874e359f23da8728f6e
 Filename: debs//com.kiengk0eng.boom_0.0.1-1_iphoneos-arm.deb
 Description: Remove Ads, Enjoy 3D Surround, All EQ and Full Intensity Control
 Depiction: https://kiengk0eng.github.io/depictions/boom/index.html
@@ -42,14 +42,14 @@ Depiction: https://kiengk0eng.github.io/depictions/boom/index.html
 Package: com.kiengk0eng.colorfysubscription
 Name: ColorfyPlus® (Subscription)!
 Version: 0.0.1
-Size: 6700
+Size: 6698
 Depends: mobilesubstrate
 Architecture: iphoneos-arm 
 Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
 Author: Kiengk0eng <kiengk0eng@yahoo.com>
 Homepage: http://twitter.com/kiengk0eng
 Section: Multimedia
-MD5sum: 025180e02a99437bfae3ea13d86f5fae
+MD5sum: 75f35ec6ba8742b478822be44d1612e5
 Filename: debs//com.kiengk0eng.colorfysubscription_0.0.1-1_iphoneos-arm.deb
 Description: Unlimited Access to image, Daily Update, Colors, No ADS
 Depiction: https://kiengk0eng.github.io/depictions/colorfy/index.html
@@ -57,14 +57,14 @@ Depiction: https://kiengk0eng.github.io/depictions/colorfy/index.html
 Package: com.kiengk0eng.darkroompremium
 Name: Darkroom®2 (Premium)!
 Version: 0.0.1
-Size: 6064
+Size: 6036
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
 Author: Kiengk0eng <kiengk0eng@yahoo.com>
 Homepage: http://twitter.com/kiengk0eng
 Section: Multimedia
-MD5sum: 0670e4b8ac655dc9b8cff30b60479919
+MD5sum: 942235142f93cfbff41ef3ef9c89590e
 Filename: debs//com.kiengk0eng.darkroompremium_0.0.1-1_iphoneos-arm.deb
 Description: Unlock all 20 Premium Filter, Curve, Color Tools
 Depiction: https://kiengk0eng.github.io/depictions/darkroom/index.html
@@ -72,59 +72,44 @@ Depiction: https://kiengk0eng.github.io/depictions/darkroom/index.html
 Package: com.kiengk0eng.djmixpads2
 Name: DJMIX® Pads 2 (VIP)!
 Version: 0.0.1
-Size: 7064
+Size: 7048
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
 Author: Kiengk0eng <kiengk0eng@yahoo.com>
 Homepage: http://twitter.com/kiengk0eng
 Section: Entertainment
-MD5sum: 62dec639fa68f9fe5953615a5c459074
+MD5sum: 7a9535262779c5b52f69baeb14f81e76
 Filename: debs//com.kiengk0eng.djmixpads2_0.0.1-1_iphoneos-arm.deb
 Description: Get Full Access, Update Collections of Sample & Loops, No ADS!
 Depiction: https://kiengk0eng.github.io/depictions/djmixpad2/index.html
 
-Package: com.kiengk0eng.musixmatch
-Name: Musixmacth® (Purchased)!
-Version: 0.0.1
-Size: 6398
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
-Author: Kiengk0eng <kiengk0eng@yahoo.com>
-Homepage: http://twitter.com/kiengk0eng
-Section: Entertainment
-MD5sum: fed376ed94e4745bf3b6a527c2f7658a
-Filename: debs//com.kiengk0eng.musixmatch_0.0.1-1_iphoneos-arm.deb
-Description: Enjoy your music with lyrics, Learn a language with translated lyrics, Lyrics for your music on the Lock Screen and more
-Depiction: https://kiengk0eng.github.io/depictions/musixmatch/index.html
-
 Package: com.kiengk0eng.facetunes2
 Name: Facetune® 2 (VIP)!
 Version: 0.0.1
-Size: 9478
+Size: 8478
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
 Author: Kiengk0eng <kiengk0eng@yahoo.com>
 Homepage: http://twitter.com/kiengk0eng
 Section: Multimedia
-MD5sum: 887f3957d0f69565bf6e4553675fa247
+MD5sum: 76c5c8e67be492698a5a4cdab725fd9e
 Filename: debs//com.kiengk0eng.facetunes2vip_0.0.1-1_iphoneos-arm.deb
 Description: Unlimited Access, All Library of elements, VIP Icon
 Depiction: https://kiengk0eng.github.io/depictions/facetune2/index.html
 
 Package: com.kiengk0eng.flightradar24
-Name: FlightRadar24 (GOLD)!
+Name: FlightRadar24® (GOLD)!
 Version: 0.0.1
-Size: 7364
+Size: 7360
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
 Author: Kiengk0eng <kiengk0eng@yahoo.com>
 Homepage: http://twitter.com/kiengk0eng
 Section: Navigation
-MD5sum: cb610435b21bb1688c94fc9ed55520ca
+MD5sum: 687830c8cc0d7059883b302ab3c82c17
 Filename: debs//com.kiengk0eng.flightradar24_0.0.1-1_iphoneos-arm.deb
 Description: Everything in Silver, Aeronautical Charts, Aviation Weather Layers, More Flight Details, ATC Boundaries, Flight Playback (365 Days & More)
 Depiction: https://kiengk0eng.github.io/depictions/flightradar24/index.html
@@ -132,14 +117,14 @@ Depiction: https://kiengk0eng.github.io/depictions/flightradar24/index.html
 Package: com.kiengk0eng.footyvid
 Name: Footyvid® (Patc)!
 Version: 0.0.1
-Size: 8442
+Size: 8466
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
 Author: Kiengk0eng <kiengk0eng@yahoo.com>
 Homepage: http://twitter.com/kiengk0eng
 Section: Multimedia
-MD5sum: 244b35c379d6f1c1933d8b6af23ef170
+MD5sum: 8c2094f8de7a4295ac3fcfb58441754b
 Filename: debs//com.kiengk0eng.footyvid_0.0.1-1_iphoneos-arm.deb
 Description: Patch and Kick Ads
 Depiction: https://kiengk0eng.github.io/depictions/footyvid/index.html
@@ -147,14 +132,509 @@ Depiction: https://kiengk0eng.github.io/depictions/footyvid/index.html
 Package: com.kiengk0eng.guitar
 Name: Guitar® (VIP)!
 Version: 0.0.1
-Size: 7366
+Size: 7422
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
 Author: Kiengk0eng <kiengk0eng@yahoo.com>
 Homepage: http://twitter.com/kiengk0eng
 Section: Entertainment
-MD5sum: 0f46c5acf12c12fa6fcac54420d5ddc4
+MD5sum: 79e27ee49b7267276815c62306f51f18
 Filename: debs//com.kiengk0eng.guitar_0.0.1-1_iphoneos-arm.deb
 Description: All Access Pass - Unlimited access to all guitars and songs, include VIP songs!
 Depiction: https://kiengk0eng.github.io/depictions/guitar/index.html
+
+Package: com.kiengk0eng.hexatechpremium
+Name: Hexatech® VPN (Premium)!
+Version: 0.0.1
+Size: 6398
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: Utilities
+MD5sum: fed376ed94e4745bf3b6a527c2f7658a
+Filename: debs//com.kiengk0eng.hexatechpremium_0.0.1-1_iphoneos-arm.deb
+Description: Several Location Options, Faster Connection, No ads, High Quality Support
+Depiction: https://kiengk0eng.github.io/depictions/hexatech/index.html
+
+Package: com.kiengk0eng.infusepro
+Name: Infuse® 5 (PRO)!
+Version: 0.0.1
+Size: 7402
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: Multimedia
+MD5sum: 1abf62ed1f21e4a80cec7a9b314ca5b5
+Filename: debs//com.kiengk0eng.infusepro_0.0.1-1_iphoneos-arm.deb
+Description: Play more video, HD quality audio, AirPlay & Google Cast, Stay in sync, Cloud streaming, Updates for life
+Depiction: https://kiengk0eng.github.io/depictions/infuse/index.html
+
+Package: com.kiengk0eng.joox
+Name: JOOX® Music (VVIP)!
+Version: 0.0.1
+Size: 8186
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: Entertainment
+MD5sum: d47a664c8a85e1cee9f1296c94aa327d
+Filename: debs//com.kiengk0eng.joox_0.0.1-1_iphoneos-arm.deb
+Description: Streaming or Download with High Quality, K-Plus with Unlimited Save Your Song, DTS (Lifetime)
+Depiction: https://kiengk0eng.github.io/depictions/joox/index.html
+
+Package: com.kiengk0eng.keepsafe
+Name: Keepsafe® (Premium)!
+Version: 0.0.1
+Size: 7210
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: Productivity
+MD5sum: c74f1056ac7116301a2b0f87e9d24f48
+Filename: debs//com.kiengk0eng.keepsafe_0.0.1-1_iphoneos-arm.deb
+Description: Get every feature, Bigger Private Cloud, Space Saver, Trash Recovery, No Ads
+Depiction: https://kiengk0eng.github.io/depictions/keepsafe/index.html
+
+Package: com.kiengk0eng.kinemaster
+Name: KineMaster® (Premium)!
+Version: 0.0.1
+Size: 6676
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: Multimedia
+MD5sum: 930b29681a691054734f4f6b362f764a
+Filename: debs//com.kiengk0eng.kinemaster_0.0.1-1_iphoneos-arm.deb
+Description: Remove Watermark, Premium Content
+Depiction: https://kiengk0eng.github.io/depictions/kinemaster/index.html
+
+Package: com.kiengk0eng.livewallpapers
+Name: LiveWallpapers® (Premium)!
+Version: 0.0.1
+Size: 6276
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: Multimedia
+MD5sum: add59617f5b6827d3719549b8b75fa60
+Filename: debs//com.kiengk0eng.livewallpapers_0.0.1-1_iphoneos-arm.deb
+Description: Ad-Free, Early Access, Premium Content
+Depiction: https://kiengk0eng.github.io/depictions/livewallpapers/index.html
+
+Package: com.kiengk0eng.manlypro
+Name: Manly® (PRO)!
+Version: 0.0.1
+Size: 6600
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: Multimedia
+MD5sum: 8048839e24a651d1264b59c8d9dba2f3
+Filename: debs//com.kiengk0eng.manlypro_0.0.1-1_iphoneos-arm.deb
+Description: Access All Features - Over 1000 Styles & Many More
+Depiction: https://kiengk0eng.github.io/depictions/manlypro/index.html
+
+Package: com.kiengk0eng.matchcom
+Name: Match.com™ (Subscriber)!
+Version: 0.0.1
+Size: 8456
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: Social
+MD5sum: 2fcd2569168c1c2b2bf3eeb8526634e9
+Filename: debs//com.kiengk0eng.matchcom_0.0.1-1_iphoneos-arm.deb
+Description: Send Unlimited Messages, See Who Viewed You, Unlock Your Inbox, Show Interest, See Who's Interested, Connections, Block From Search, >[TopSpot Not Include]
+Depiction: https://kiengk0eng.github.io/depictions/match.com/index.
+
+Package: com.kiengk0eng.matchplus
+Name: MatchPlus™ (Premium)!
+Version: 0.0.1
+Size: 6210
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: Social
+MD5sum: 021f4575e2487ffb138d42724ddb1ce3
+Filename: debs//com.kiengk0eng.matchplus_0.0.1-1_iphoneos-arm.deb
+Description: Unlimited Bacth Like, Unlimited Auto Like, Opening Lines, Filter Fake Profile, Filter Out Friends of Friends
+Depiction: https://kiengk0eng.github.io/depictions/matchplus/index.html
+
+Package: com.kiengk0eng.musixmatch
+Name: Musixmacth® (Purchased)!
+Version: 0.0.1
+Size: 6496
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: Entertainment
+MD5sum: 0e23a56f5c4924f72b7398f229e06caa
+Filename: debs//com.kiengk0eng.musixmatch_0.0.1-1_iphoneos-arm.deb
+Description: Enjoy your music with lyrics, Learn a language with translated lyrics, Lyrics for your music on the Lock Screen and more
+Depiction: https://kiengk0eng.github.io/depictions/musixmatch/index.html
+
+Package: com.kiengk0eng.nicefriends
+Name: NiceFriends® (VIP)!
+Version: 0.0.1
+Size: 8948
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: Social
+MD5sum: f531185a0ce42391f37045c2cc1397df
+Filename: debs//com.kiengk0eng.nicefriends_0.0.1-1_iphoneos-arm.deb
+Description: Enjoy VIP Benefits, Daily Bonus Friends, Become a Verified Profile, Unlock Selected & Popular Friends, Unlock Who Viewed & Liked You, Discover People Nearby, Nearby Around The World, Advanced Search & Filter, Match Friends by Al, Hide Ads
+Depiction: https://kiengk0eng.github.io/depictions/nicefriends/index.html
+
+Package: com.kiengk0eng.noon
+Name: NOON® (Trial Patch)!
+Version: 0.0.1
+Size: 6398
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: Multimedia
+MD5sum: fed376ed94e4745bf3b6a527c2f7658a
+Filename: debs//com.kiengk0eng.noon_0.0.1-1_iphoneos-arm.deb
+Description: Kick the timer in free trial
+Depiction: https://kiengk0eng.github.io/depictions/noon/index.html
+
+Package: com.kiengk0eng.officesuitepremium
+Name: OfficeSuite® (Premium)!
+Version: 0.0.1
+Size: 7146
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: Productivity
+MD5sum: eca944e715c6e49e8c65ff51e249b2df
+Filename: debs//com.kiengk0eng.officesuitepremium_0.0.1-1_iphoneos-arm.deb
+Description: Work without limits, Get a boost, Take controls
+Depiction: https://kiengk0eng.github.io/depictions/officesuite/index.html
+
+Package: com.kiengk0eng.overpremium
+Name: Over Edit® (PRO)!
+Version: 0.0.1
+Size: 6252
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: Multimedia
+MD5sum: b6e41b20387ff575af15004e52befd36
+Filename: debs//com.kiengk0eng.overpremium_0.0.1-1_iphoneos-arm.deb
+Description: 30000+Graphics & Fonts
+Depiction: https://kiengk0eng.github.io/depictions/over/index.html
+
+Package: com.kiengk0eng.pakihd
+Name: Pak India HDTV® (Ad Patch)!
+Version: 0.0.1
+Size: 8534
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: Multimedia
+MD5sum: 121f9712ea4e102efc98377a1a9d4d83
+Filename: debs//com.kiengk0eng.pakihd_0.0.1-1_iphoneos-arm.deb
+Description: Kill Ad!
+Depiction: https://kiengk0eng.github.io/depictions/paki/index.html
+
+Package: com.kiengk0eng.pathpremium
+Name: Path® (Premium)!
+Version: 0.0.1
+Size: 6398
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: Social
+MD5sum: fed376ed94e4745bf3b6a527c2f7658a
+Filename: debs//com.kiengk0eng.pathpremium_0.0.1-1_iphoneos-arm.deb
+Description: No ADS, Sticker, Filter, Early Access
+Depiction: https://kiengk0eng.github.io/depictions/path/index.html
+
+Package: com.kiengk0eng.polarisoffice
+Name: PolarisOffice™ (Pro Edition)!
+Version: 0.0.1
+Size: 8194
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: Productivity
+MD5sum: 7c577d64735d6776f7234ee31b640cc7
+Filename: debs//com.kiengk0eng.polarisoffice_0.0.1-1_iphoneos-arm.deb
+Description: Edit PDF Documents, Annonate On PDF, Export to PDF, Search Body Contents, Various Pen Styles, Remove ADS
+Depiction: https://kiengk0eng.github.io/depictions/polaris/index.html
+
+Package: com.kiengk0eng.realguitarpremium
+Name: RealGuitar® (Premium)!
+Version: 0.0.1
+Size: 6004
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: Entertainment
+MD5sum: 0d4b3e1d60e22e62b0c2523c3bd73368
+Filename: debs//com.kiengk0eng.realguitarpremium_0.0.1-1_iphoneos-arm.deb
+Description: Unlock all Premium Song, No Ads
+Depiction: https://kiengk0eng.github.io/depictions/realguitar/index.html
+
+Package: com.kiengk0eng.scannerfmpremium
+Name: Scanner™ for me (Premium)!
+Version: 0.0.1
+Size: 6678
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: Productivity
+MD5sum: ae1899a7aae47717a21a6d598614e8de
+Filename: debs//com.kiengk0eng.scannerfmpremium_0.0.1-1_iphoneos-arm.deb
+Description: Unlimited Sharing, Text Recognition (OCR), Sign & Highlight, No Watermark, No Ads!
+Depiction: https://kiengk0eng.github.io/depictions/scannerforme/index.html
+
+Package: com.kiengk0eng.shazam
+Name: Shazam® (Paid)!
+Version: 0.0.1
+Size: 7286
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: Entertainment
+MD5sum: b1a3004b163ebc83a343f65df888fe39
+Filename: debs//com.kiengk0eng.shazam_0.0.1-1_iphoneos-arm.deb
+Description: Hide Ads and more
+Depiction: https://kiengk0eng.github.io/depictions/shazam/index.html
+
+Package: com.kiengk0eng.singvip
+Name: Sing!® (VIP)!
+Version: 0.0.1
+Size: 10888
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: Entertainment
+MD5sum: e2a6ef3c40a64fe2aeae0b988b95fced
+Filename: debs//com.kiengk0eng.singvip_0.0.1-1_iphoneos-arm.deb
+Description: All Access Pass - Sing without limmits, Sing millions of songs, ad free, Include VIP
+Depiction: https://kiengk0eng.github.io/depictions/sing/index.html
+
+Package: com.kiengk0eng.smoonvip
+Name: Smoon® (VIP)!
+Version: 0.0.1
+Size: 7140
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: Social
+MD5sum: 6452480ab82d5fe206a76f385b55001a
+Filename: debs//com.kiengk0eng.smoonvip_0.0.1-1_iphoneos-arm.deb
+Description: Unlock all Pack, No Ads
+Depiction: https://kiengk0eng.github.io/depictions/smoon/index.html
+
+Package: com.kiengk0eng.speedtest
+Name: Speedtest® (Purchased)!
+Version: 0.0.1
+Size: 6550
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: Utilities
+MD5sum: c943b2c8ef956f6f9f605894f6c4fde1
+Filename: debs//com.kiengk0eng.speedtest_0.0.1-1_iphoneos-arm.deb
+Description: Remove Ads!
+Depiction: https://kiengk0eng.github.io/depictions/speedtest/index.html
+
+Package: com.kiengk0eng.stravapremium
+Name: Strava® (Premium)!
+Version: 0.0.1
+Size: 6714
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: Navigation
+MD5sum: 101c036cf9d56a058d622885d5bbdb4b
+Filename: debs//com.kiengk0eng.stravapremium_0.0.1-1_iphoneos-arm.deb
+Description: More Features More Fun, Personalized Coaching, Real Time Feedback, Advanced Analysis, Premium Perks
+Depiction: https://kiengk0eng.github.io/depictions/strava/index.html
+
+Package: com.kiengk0eng.sygicpremium
+Name: Sygic® (Premium)!
+Version: 0.0.1
+Size: 8026
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: Navigation
+MD5sum: db88eac3127d510ef2daf28150191e3e
+Filename: debs//com.kiengk0eng.sygicpremium_0.0.1-1_iphoneos-arm.deb
+Description: Cookpit, Photo Navigation, Travelbooks, Real View Navigation, Dashcam, Head-up Display
+Depiction: https://kiengk0eng.github.io/depictions/sygic/index.html
+
+Package: com.kiengk0eng.tabpropremium
+Name: Tab®Pro (Premium)!
+Version: 0.0.1
+Size: 8124
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: Entertainment
+MD5sum: 254e006d9d8521cb38e5c12b54c2102d
+Filename: debs//com.kiengk0eng.tabpropremium_0.0.1-1_iphoneos-arm.deb
+Description: Unlimited Lifetime Access, Interactive Tabs
+Depiction: https://kiengk0eng.github.io/depictions/tabpro/index.html
+
+Package: com.kiengk0eng.thevoice
+Name: The Voice™ (VIP)!
+Version: 0.0.1
+Size: 7488
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: Entertainment
+MD5sum: 0abde4b74dd526c7c7c15f7832eba5b1
+Filename: debs//com.kiengk0eng.thevoice_0.0.1-1_iphoneos-arm.deb
+Description: Unlimited access to VIP songs, VIPs get twice the amount of gift s daily, Ad-free, Exlucive VIP badge, Red stage name, The following upper limit is upgraded from 1000 to 5000, more privilages are coming soon
+Depiction: https://kiengk0eng.github.io/depictions/thevoice/index.html
+
+Package: com.kiengk0eng.tonebridgepremium
+Name: ToneBridge® (Premium)!
+Version: 0.0.1
+Size: 6912
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: Entertainment
+MD5sum: 0e8870323c0b0e03455bdee286289fda
+Filename: debs//com.kiengk0eng.tonebridgepremium_0.0.1-1_iphoneos-arm.deb
+Description: Unlock all Packs, More Presets Artist, Unlimited Access
+Depiction: https://kiengk0eng.github.io/depictions/tonebridge/index.html
+
+Package: com.kiengk0eng.turbovpnvip
+Name: TurboVPN® (VIP)!
+Version: 0.0.1
+Size: 6908
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: Utilities
+MD5sum: 1d2247ee42da73b70fa4896b2a8386a6
+Filename: debs//com.kiengk0eng.turbovpnvip_0.0.1-1_iphoneos-arm.deb
+Description: Worldwide Location, No Ads, Fast Connection!
+Depiction: https://kiengk0eng.github.io/depictions/turbovpn/index.html
+
+Package: com.kiengk0eng.ultimateguitar
+Name: Ultimate Guitar® (PRO)!
+Version: 0.0.1
+Size: 6884
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: Entertainment
+MD5sum: 0863f39d334c8419c6ebae01abfb8c17
+Filename: debs//com.kiengk0eng.ultimateguitar_0.0.1-1_iphoneos-arm.deb
+Description: 286K Interactive Tabs, 7K Backing Track, Metronome, Guitar Tuner, Simplify Chord, Transpose, Ad Free, Export and More...!
+Depiction: https://kiengk0eng.github.io/depictions/ultimateguitar/index.html
+
+Package: com.kiengk0eng.vivavideovip
+Name: VivaVideo™ (VIP)!
+Version: 0.0.1
+Size: 7210
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: Multimedia
+MD5sum: 3cdbefde9393c3d8263e2a7211ad4e82
+Filename: debs//com.kiengk0eng.vivavideovip_0.0.1-1_iphoneos-arm.deb
+Description: Watermark Remove, HD Export (1080), No Limite Time, No Ads, Video Adjustment, Animated Text, Free Materials Usage
+Depiction: https://kiengk0eng.github.io/depictions/vivavideo/index.html
+
+Package: com.kiengk0eng.voicepremium
+Name: VoiceTranslator® (Premium)!
+Version: 0.0.1
+Size: 7062
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: Productivity
+MD5sum: 276ce2e52aa44ebbec4abca47f866e15
+Filename: debs//com.kiengk0eng.voicepremium_0.0.1-1_iphoneos-arm.deb
+Description: No ADS, Offline Download Library, Unlimited
+Depiction: https://kiengk0eng.github.io/depictions/voice/index.html
+
+Package: com.kiengk0eng.youstarpaid
+Name: YouStar® (Premium)!
+Version: 0.0.1
+Size: 7532
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: Multimedia
+MD5sum: df12f557d11374c3c5411ff053180900
+Filename: debs//com.kiengk0eng.youstarpaid_0.0.1-1_iphoneos-arm.deb
+Description: Unlock Unlimited Subscriber, Unlock all Packs
+Depiction: https://kiengk0eng.github.io/depictions/youstar/index.html
