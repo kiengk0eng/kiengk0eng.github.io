@@ -191,7 +191,7 @@ Depiction: https://kiengk0eng.github.io/depictions/infuse/index.html
 
 Package: com.kiengk0eng.joox
 Name: JOOX® Music (VVIP)!
-Version: 1:0.0.1-1
+Version: 0.0.1
 Size: 8186
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
