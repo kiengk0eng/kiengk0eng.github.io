@@ -439,7 +439,7 @@ Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
 Author: Kiengk0eng <kiengk0eng@yahoo.com>
 Homepage: http://twitter.com/kiengk0eng
 Section: Productivity
-MD5sum: 35d163f3ff0912e15befa40966e05988
+MD5sum: 4c924cfd1793bee28f3b35d553abf2b8
 Filename: debs//com.kiengk0eng.scannerforme.deb
 Description: Unlimited Sharing, Text Recognition (OCR), Sign & Highlight, No Watermark, No Ads!
 Depiction: https://kiengk0eng.github.io/depictions/scannerforme/index.html
@@ -687,14 +687,14 @@ Depiction: https://kiengk0eng.github.io/depictions/ios/index.html
 Package: frameworks.theos.header
 Name: Frameworks (.h)!
 Version: 1.0
-Size: 744368
+Size: 743818
 Depends: mobilesubstrate
 Architecture: all
 Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
 Author: Kiengk0eng <kiengk0eng@yahoo.com>
 Homepage: http://twitter.com/kiengk0eng
 Section: System
-MD5sum: 150c10fda28ae61ea4e78c8f2f3db06c
+MD5sum: 08afba997100c766553d2a04ed0ee15c
 Filename: iosdev//frameworks.theos.header.deb
 Description: Frameworks master for theos
 Depiction: https://kiengk0eng.github.io/depictions/frame/index.html
