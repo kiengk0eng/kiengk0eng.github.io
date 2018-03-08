@@ -653,3 +653,33 @@ MD5sum: df12f557d11374c3c5411ff053180900
 Filename: debs//com.kiengk0eng.youstarpaid_0.0.1-1_iphoneos-arm.deb
 Description: Unlock Unlimited Subscriber, Unlock all Packs
 Depiction: https://kiengk0eng.github.io/depictions/youstar/index.html
+
+Package: net.howett.theos
+Name: Theos™
+Version: 0.9.639
+Size: 60448
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Author: Dustin Howett <dustin@howett.net>
+Homepage: http://twitter.com/kiengk0eng
+Section: System
+MD5sum: e591f1f26a7fa53c9c031caad95e46c4
+Filename: iosdev//net.howett.theos_0.9.639-1_iphoneos-arm.deb
+Description: iPhone OS build system
+Depiction: http://iphonedevwiki.net/index.php/Logos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
