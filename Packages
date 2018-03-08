@@ -667,19 +667,19 @@ Section: System
 MD5sum: e591f1f26a7fa53c9c031caad95e46c4
 Filename: iosdev//net.howett.theos_0.9.639-1_iphoneos-arm.deb
 Description: iPhone OS build system
-Depiction: http://iphonedevwiki.net/index.php/Logos
+Depiction: https://kiengk0eng.github.io/depictions/theos/index.html
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Package: iphoneos9.3.sdk
+Name: iPhoneOS 9.3 (SDK)!
+Version: 1:9.3-1
+Size: 7439610
+Depends: mobilesubstrate, firmware (>=9.0)
+Architecture: all
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: System
+MD5sum: 0a47a452a9f6b53375ef60d53746dd32
+Filename: iosdev//iphoneos9.3.sdk.deb
+Description: iPhone OS build system
+Depiction: https://kiengk0eng.github.io/depictions/sdk/index.html
