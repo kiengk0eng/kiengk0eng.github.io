@@ -1,13 +1,13 @@
 Package: com.kiengk0eng.audiomack
 Name: AudioMack® (Platinum)!
-Size: 6130
-Version: 0.0.1
+Size: 6110
+Version: 3.9.1
 Architecture: iphoneos-arm
 Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
 Author: Kiengk0eng <kiengk0eng@yahoo.com>
 Section: Entertainment
-MD5sum: 965bfa87b79b4a9b0ace60b4adf61b79
-Filename: debs//com.kiengk0eng.audiomack_0.0.1-1_iphoneos-arm.deb
+MD5sum: d24ea0080f649ef446e19201538a258a
+Filename: debs//com.kiengk0eng.audiomack.deb
 Description: Steam and download great new music, Save data 4 million offline song, Discover the hottest new trending music
 Depiction: https://kiengk0eng.github.io/depictions/audiomack/index.html
 
@@ -26,22 +26,22 @@ Depiction: https://kiengk0eng.github.io/depictions/autorap/index.html
 
 Package: com.kiengk0eng.boom
 Name: Boom® Player (Purchased)!
-Version: 0.0.1
-Size: 5922
+Version: 1.2.5
+Size: 5906
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
 Author: Kiengk0eng <kiengk0eng@yahoo.com>
 Homepage: http://twitter.com/kiengk0eng
 Section: Entertainment
-MD5sum: 33cd98ed16c33874e359f23da8728f6e
-Filename: debs//com.kiengk0eng.boom_0.0.1-1_iphoneos-arm.deb
+MD5sum: c282bc9e6cf646c3addf88d8ff1d3fdf
+Filename: debs//com.kiengk0eng.boom.deb
 Description: Remove Ads, Enjoy 3D Surround, All EQ and Full Intensity Control
 Depiction: https://kiengk0eng.github.io/depictions/boom/index.html
 
 Package: com.kiengk0eng.betternet
 Name: Betternet® VPN (Premium)!
-Version: 0.0.1
+Version: 3.3.26
 Size: 6728
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
@@ -49,7 +49,7 @@ Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
 Author: Kiengk0eng <kiengk0eng@yahoo.com>
 Homepage: http://twitter.com/kiengk0eng
 Section: Utilities
-MD5sum: 38baff12c585255eb5b4f1f691dbe176
+MD5sum: 900072b13efee9bdd0623d18982b2259
 Filename: debs//com.kiengk0eng.betternet.deb
 Description: Faster Connection, Worldwide Location, Remove Ads
 Depiction: https://kiengk0eng.github.io/depictions/betternet/index.html
@@ -131,31 +131,31 @@ Depiction: https://kiengk0eng.github.io/depictions/flightradar24/index.html
 
 Package: com.kiengk0eng.footyvid
 Name: Footyvid® (Patch)!
-Version: 0.0.1
-Size: 8466
+Version: 1.0
+Size: 8448
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
 Author: Kiengk0eng <kiengk0eng@yahoo.com>
 Homepage: http://twitter.com/kiengk0eng
 Section: Multimedia
-MD5sum: 8c2094f8de7a4295ac3fcfb58441754b
-Filename: debs//com.kiengk0eng.footyvid_0.0.1-1_iphoneos-arm.deb
+MD5sum: 47fdbf118809d5a8101638fc4bbc458c
+Filename: debs//com.kiengk0eng.footyvid.deb
 Description: Patch and Kick Ads
 Depiction: https://kiengk0eng.github.io/depictions/footyvid/index.html
 
 Package: com.kiengk0eng.guitar
 Name: Guitar® (VIP)!
-Version: 0.0.1
-Size: 7422
+Version: 1.6.3
+Size: 7406
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
 Author: Kiengk0eng <kiengk0eng@yahoo.com>
 Homepage: http://twitter.com/kiengk0eng
 Section: Entertainment
-MD5sum: 79e27ee49b7267276815c62306f51f18
-Filename: debs//com.kiengk0eng.guitar_0.0.1-1_iphoneos-arm.deb
+MD5sum: 27b62475b1bc3d50b207ef52484c24db
+Filename: debs//com.kiengk0eng.guitar.deb
 Description: All Access Pass - Unlimited access to all guitars and songs, include VIP songs!
 Depiction: https://kiengk0eng.github.io/depictions/guitar/index.html
 
@@ -191,16 +191,16 @@ Depiction: https://kiengk0eng.github.io/depictions/infuse/index.html
 
 Package: com.kiengk0eng.joox
 Name: JOOX® Music (VVIP)!
-Version: 0.0.1
-Size: 8186
+Version: 4.2.0
+Size: 8168
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
 Author: Kiengk0eng <kiengk0eng@yahoo.com>
 Homepage: http://twitter.com/kiengk0eng
 Section: Entertainment
-MD5sum: d47a664c8a85e1cee9f1296c94aa327d
-Filename: debs//com.kiengk0eng.joox_0.0.1-1_iphoneos-arm.deb
+MD5sum: c394640f75d2e8d65c123a0791fc1720
+Filename: debs//com.kiengk0eng.joox.deb
 Description: Streaming or Download with High Quality, K-Plus with Unlimited Save Your Song, DTS (Lifetime)
 Depiction: https://kiengk0eng.github.io/depictions/joox/index.html
 
