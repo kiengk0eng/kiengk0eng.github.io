@@ -277,7 +277,7 @@ Section: Social
 MD5sum: 6642eefb8825f377d469533599b80571
 Filename: debs//com.kiengk0eng.matchcom.deb
 Description: Send Unlimited Messages, See Who Viewed You, Unlock Your Inbox, Show Interest, See Who's Interested, Connections, Block From Search, >[TopSpot Not Include]
-Depiction: https://kiengk0eng.github.io/depictions/match.com/index.
+Depiction: https://kiengk0eng.github.io/depictions/match.com/index.html
 
 Package: com.kiengk0eng.matchplus
 Name: MatchPlus™ (Premium)!
