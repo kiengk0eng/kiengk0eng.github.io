@@ -42,15 +42,15 @@ Depiction: https://kiengk0eng.github.io/depictions/boom/index.html
 Package: com.kiengk0eng.betternet
 Name: Betternet® VPN (Premium)!
 Version: 0.0.1
-Size: 6730
+Size: 6728
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
 Author: Kiengk0eng <kiengk0eng@yahoo.com>
 Homepage: http://twitter.com/kiengk0eng
 Section: Utilities
-MD5sum: 289e3c95ad7cbb13318130695d922357
-Filename: debs//com.kiengk0eng.betternet_0.0.1-1_iphoneos-arm.deb
+MD5sum: 38baff12c585255eb5b4f1f691dbe176
+Filename: debs//com.kiengk0eng.betternet.deb
 Description: Faster Connection, Worldwide Location, Remove Ads
 Depiction: https://kiengk0eng.github.io/depictions/betternet/index.html
 
