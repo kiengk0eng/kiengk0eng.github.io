@@ -1,26 +1,26 @@
 Package: com.kiengk0eng.audiomack
 Name: AudioMack® (Platinum)!
-Size: 6110
+Size: 6088
 Version: 3.9.1
 Architecture: iphoneos-arm
 Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
 Author: Kiengk0eng <kiengk0eng@yahoo.com>
 Section: Entertainment
-MD5sum: d24ea0080f649ef446e19201538a258a
+MD5sum: f3b97f869b6c7a849194bd88ce007419
 Filename: debs//com.kiengk0eng.audiomack.deb
 Description: Steam and download great new music, Save data 4 million offline song, Discover the hottest new trending music
 Depiction: https://kiengk0eng.github.io/depictions/audiomack/index.html
 
-Package: com.kiengk0eng.autorapvip
+Package: com.kiengk0eng.autorap
 Name: AutoRap® Smule (VIP)!
-Size: 6860
+Size: 6826
 Version: 2.3.5
 Architecture: iphoneos-arm
 Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
 Author: Kiengk0eng <kiengk0eng@yahoo.com>
 Section: Entertainment
-MD5sum: 85ddf4c6e443f1f423f1df1f48c5fd87
-Filename: debs//com.kiengk0eng.autorapvip.deb
+MD5sum: 9159559cbdf54d6a5c37fb570087f680
+Filename: debs//com.kiengk0eng.autorap.deb
 Description: All Access Pass - Play or remix with any beat from our library
 Depiction: https://kiengk0eng.github.io/depictions/autorap/index.html
 
@@ -99,18 +99,18 @@ Filename: debs//com.kiengk0eng.djmixpads2.deb
 Description: Get Full Access, Update Collections of Sample & Loops, No ADS!
 Depiction: https://kiengk0eng.github.io/depictions/djmixpad2/index.html
 
-Package: com.kiengk0eng.facetune2vip
+Package: com.kiengk0eng.facetune2
 Name: Facetune® 2 (VIP)!
 Version: 1.9.3
-Size: 6462
+Size: 8436
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
 Author: Kiengk0eng <kiengk0eng@yahoo.com>
 Homepage: http://twitter.com/kiengk0eng
 Section: Multimedia
-MD5sum: 33a0b2e37b6d066e5e9b6dfa2af029f0
-Filename: debs//com.kiengk0eng.facetune2vip.deb
+MD5sum: ac1883af0e1bc97909e616906fd5acc4
+Filename: debs//com.kiengk0eng.facetune2.deb
 Description: Unlimited Access, All Library of elements, VIP Icon
 Depiction: https://kiengk0eng.github.io/depictions/facetune2/index.html
 
@@ -609,18 +609,18 @@ Filename: debs//com.kiengk0eng.ultimateguitar.deb
 Description: 286K Interactive Tabs, 7K Backing Track, Metronome, Guitar Tuner, Simplify Chord, Transpose, Ad Free, Export and More...!
 Depiction: https://kiengk0eng.github.io/depictions/ultimateguitar/index.html
 
-Package: com.kiengk0eng.vivavideovip
+Package: com.kiengk0eng.vivavideo
 Name: VivaVideo™ (VIP)!
 Version: 6.2.8
-Size: 7198
+Size: 7168
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
 Author: Kiengk0eng <kiengk0eng@yahoo.com>
 Homepage: http://twitter.com/kiengk0eng
 Section: Multimedia
-MD5sum: b559e49a5428563ae5eae2a0209c93a5
-Filename: debs//com.kiengk0eng.vivavideovip.deb
+MD5sum: 7acf21483ea3b8a55faa9c33defb001d
+Filename: debs//com.kiengk0eng.vivavideo.deb
 Description: Watermark Remove, HD Export (1080), No Limite Time, No Ads, Video Adjustment, Animated Text, Free Materials Usage
 Depiction: https://kiengk0eng.github.io/depictions/vivavideo/index.html
 
