@@ -670,7 +670,7 @@ Description: A cross-platform suite of tools for building and deploying software
 Depiction: https://kiengk0eng.github.io/depictions/theos/index.html
 
 Package: iphoneos9.3.sdk
-Name: iPhoneOS 9.3 (SDK)!
+Name: iPhoneOS 9.3 (SDKS)!
 Version: 9.3
 Size: 7439620
 Depends: mobilesubstrate, firmware (>=9.0)
@@ -681,6 +681,21 @@ Homepage: http://twitter.com/kiengk0eng
 Section: System
 MD5sum: 674bd124c8f16e52cf1d4492430eff7b
 Filename: iosdev//iphoneos9.3.sdk.deb
+Description: Software Development KIT
+Depiction: https://kiengk0eng.github.io/depictions/ios/index.html
+
+Package: iphoneos10.1.sdk
+Name: iPhoneOS 10.1 (SDKS)!
+Version: 10.1
+Size: 10849946
+Depends: mobilesubstrate, firmware (>=10.0)
+Architecture: all
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: System
+MD5sum: db98d91a9c99acd81534a15553eeaee1
+Filename: iosdev//iphoneos10.1.sdk.deb
 Description: Software Development KIT
 Depiction: https://kiengk0eng.github.io/depictions/ios/index.html
 
@@ -698,6 +713,3 @@ MD5sum: 08afba997100c766553d2a04ed0ee15c
 Filename: iosdev//frameworks.theos.header.deb
 Description: Frameworks master for theos
 Depiction: https://kiengk0eng.github.io/depictions/frame/index.html
-
-
-
