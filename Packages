@@ -1,7 +1,7 @@
 Package: com.kiengk0eng.audiomack
 Name: AudioMack® (Platinum)!
 Size: 6088
-Version: 3.9.0
+Version: 3.9.1
 Architecture: iphoneos-arm
 Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
 Author: Kiengk0eng <kiengk0eng@yahoo.com>
@@ -14,7 +14,7 @@ Depiction: https://kiengk0eng.github.io/depictions/audiomack/index.html
 Package: com.kiengk0eng.autorap
 Name: AutoRap® Smule (VIP)!
 Size: 6826
-Version: 2.3.4
+Version: 2.3.5
 Architecture: iphoneos-arm
 Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
 Author: Kiengk0eng <kiengk0eng@yahoo.com>
@@ -611,7 +611,7 @@ Depiction: https://kiengk0eng.github.io/depictions/ultimateguitar/index.html
 
 Package: com.kiengk0eng.vivavideo
 Name: VivaVideo™ (VIP)!
-Version: 6.2.7
+Version: 6.2.8
 Size: 7168
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
