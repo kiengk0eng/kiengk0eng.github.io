@@ -669,6 +669,21 @@ Filename: iosdev//net.howett.theos.deb
 Description: A cross-platform suite of tools for building and deploying software for iOS and other platforms
 Depiction: https://kiengk0eng.github.io/depictions/theos/index.html
 
+Package: iphoneos8.1.sdk
+Name: iPhoneOS 8.1 (SDKS)!
+Version: 8.1
+Size: 31837576
+Depends: mobilesubstrate, firmware (>=8.0)
+Architecture: all
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: System
+MD5sum: 9b219e3cbee32ded4477fb3751d221c3
+Filename: iosdev//iphoneos8.1.sdk.deb
+Description: Software Development KIT
+Depiction: https://kiengk0eng.github.io/depictions/ios/index.html
+
 Package: iphoneos9.3.sdk
 Name: iPhoneOS 9.3 (SDKS)!
 Version: 9.3
