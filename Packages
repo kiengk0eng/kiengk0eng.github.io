@@ -116,15 +116,15 @@ Depiction: https://kiengk0eng.github.io/depictions/facetune2/index.html
 
 Package: com.kiengk0eng.flightradar24
 Name: FlightRadar24® (GOLD)!
-Version: 0.0.1
-Size: 7360
+Version: 7.5.0
+Size: 7342
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
 Author: Kiengk0eng <kiengk0eng@yahoo.com>
 Homepage: http://twitter.com/kiengk0eng
 Section: Navigation
-MD5sum: 687830c8cc0d7059883b302ab3c82c17
+MD5sum: d951fe3873b7f20aefe6e66e9b791d74
 Filename: debs//com.kiengk0eng.flightradar24.deb
 Description: Everything in Silver, Aeronautical Charts, Aviation Weather Layers, More Flight Details, ATC Boundaries, Flight Playback (365 Days & More)
 Depiction: https://kiengk0eng.github.io/depictions/flightradar24/index.html
@@ -177,14 +177,14 @@ Depiction: https://kiengk0eng.github.io/depictions/hexatech/index.html
 Package: com.kiengk0eng.infusepro
 Name: Infuse® 5 (PRO)!
 Version: 5.6.8
-Size: 7694
+Size: 7700
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
 Author: Kiengk0eng <kiengk0eng@yahoo.com>
 Homepage: http://twitter.com/kiengk0eng
 Section: Multimedia
-MD5sum: 297dc815e2f5c9d5ed314cc5c95621bb
+MD5sum: 1de06c73c1415d3a9fd34ae69b566d2a
 Filename: debs//com.kiengk0eng.infusepro.deb
 Description: Play more video, HD quality audio, AirPlay & Google Cast, Stay in sync, Cloud streaming, Updates for life
 Depiction: https://kiengk0eng.github.io/depictions/infuse/index.html
@@ -402,14 +402,14 @@ Depiction: https://kiengk0eng.github.io/depictions/path/index.html
 Package: com.kiengk0eng.polarisoffice
 Name: PolarisOffice™ (Pro Edition)!
 Version: 7.3.27
-Size: 8180
+Size: 8494
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
 Author: Kiengk0eng <kiengk0eng@yahoo.com>
 Homepage: http://twitter.com/kiengk0eng
 Section: Productivity
-MD5sum: e7ee8410ff7fd090f7630ff6edf182fb
+MD5sum: e72e9f5f1327fdde7f679e3a073078f8
 Filename: debs//com.kiengk0eng.polarisoffice.deb
 Description: Edit PDF Documents, Annonate On PDF, Export to PDF, Search Body Contents, Various Pen Styles, Remove ADS
 Depiction: https://kiengk0eng.github.io/depictions/polaris/index.html
@@ -728,3 +728,138 @@ MD5sum: 08afba997100c766553d2a04ed0ee15c
 Filename: iosdev//frameworks.theos.header.deb
 Description: Frameworks master for theos
 Depiction: https://kiengk0eng.github.io/depictions/frame/index.html
+
+Package: com.kiengk0eng.camscanner
+Name: CamScanner™ (Premium)!
+Version: 5.5.2.16205
+Size: 8072
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: Productivity
+MD5sum: 189d62fde3e84f12421bf75ab87a811e
+Filename: debs//com.kiengk0eng.camscanner.deb
+Description: Collage, Auto upload to third-party cloud service, High quality scan, Export OCR result, No default watermark on PDF, Created unlimited number of folder, Free Ads
+Depiction: https://kiengk0eng.github.io/depictions/camscanner/index.html
+
+Package: com.kiengk0eng.coloringbook
+Name: Coloring Book™ (Premium)!
+Version: 3.2
+Size: 6934
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: Multimedia
+MD5sum: 415bf3c59ad2b052a2888cb7dec2e215
+Filename: debs//com.kiengk0eng.coloringbook.deb
+Description: Unlock all pictures, Use extra palletes, Enjoy more relaxing sound, Share without watermark, Remove ads
+Depiction: https://kiengk0eng.github.io/depictions/coloringbook/index.htmls
+
+Package: com.kiengk0eng.speaktranslate
+Name: Speak & Translate™ (Premium)!
+Version: 4.3
+Size: 6850
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: Productivity
+MD5sum: 453a4f654939395265680ab2d8518b80
+Filename: debs//com.kiengk0eng.speaktranslate.deb
+Description: Unlimited translations, Offline translations, Ad free
+Depiction: https://kiengk0eng.github.io/depictions/speak/index.htmls
+
+Package: com.kiengk0eng.topbrowser
+Name: Top Browser™ (Premium)!
+Version: 1.7
+Size: 6528
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: Productivity
+MD5sum: 88167847cf13baed7b88bca076bdc9a2
+Filename: debs//com.kiengk0eng.topbrowser.deb
+Description: Browser Anonymous, Bypass All Website Restrictions, Hide IP & Identity, No Annoying Popup Ads
+Depiction: https://kiengk0eng.github.io/depictions/topbrowser/index.htmls
+
+Package: com.kiengk0eng.ushareit
+Name: uShareit™ (Patch)!
+Version: 2.8.28
+Size: 11576
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: Productivity
+MD5sum: 0620ebe5829f38b60439992dcec00f80
+Filename: debs//com.kiengk0eng.ushareit.deb
+Description: Free Ads
+Depiction: https://kiengk0eng.github.io/depictions/ushareit/index.htmls
+
+Package: com.kiengk0eng.vpnmaster
+Name: VPN Master™ (VIP)!
+Version: 2.7.2
+Size: 7040
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: Utilities
+MD5sum: 84077b388b3eed964b67a3c049c35e26
+Filename: debs//com.kiengk0eng.vpnmaster.deb
+Description: Faster Connection, Worldwide Server, No Ads
+Depiction: https://kiengk0eng.github.io/depictions/vpnmaster/index.htmls
+
+Package: com.kiengk0eng.wattpad
+Name: Wattpad™ (Premium)!
+Version: 6.63.0
+Size: 7016
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: Social
+MD5sum: 4778ada8cf9f9d50cb907b466987d167
+Filename: debs//com.kiengk0eng.wattpad.deb
+Description: Uninterrupted ads-free experience, First access to new features
+Depiction: https://kiengk0eng.github.io/depictions/wattpad/index.htmls
+
+Package: com.kiengk0eng.wpsoffice
+Name: WPS Office™ (VIP)!
+Version: 8.0.1
+Size: 7242
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: Productivity
+MD5sum: c0e032ac1addc936d49040b78a5871e4
+Filename: debs//com.kiengk0eng.wpsoffice.deb
+Description: PDF to World, Recording, File Slimmer, PDF Tools, PDF Reformer, Long Picture
+Depiction: https://kiengk0eng.github.io/depictions/wpsoffice/index.htmls
+
+Package: com.kiengk0eng.truecaller
+Name: TrueCaller™ (Pro)!
+Version: 8.40
+Size: 6734
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: Productivity
+MD5sum: a44a96b90acdb11796455493a05c17cd
+Filename: debs//com.kiengk0eng.truecaller.deb
+Description: Get the pro badge on your profile, Get 30 contact request per mounth, Remove all ads
+Depiction: https://kiengk0eng.github.io/depictions/truecaller/index.htmls
