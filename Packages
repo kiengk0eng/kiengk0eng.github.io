@@ -757,7 +757,7 @@ Section: Multimedia
 MD5sum: 415bf3c59ad2b052a2888cb7dec2e215
 Filename: debs//com.kiengk0eng.coloringbook.deb
 Description: Unlock all pictures, Use extra palletes, Enjoy more relaxing sound, Share without watermark, Remove ads
-Depiction: https://kiengk0eng.github.io/depictions/coloringbook/index.htmls
+Depiction: https://kiengk0eng.github.io/depictions/coloringbook/index.html
 
 Package: com.kiengk0eng.speaktranslate
 Name: Speak & Translate™ (Premium)!
@@ -772,7 +772,7 @@ Section: Productivity
 MD5sum: 453a4f654939395265680ab2d8518b80
 Filename: debs//com.kiengk0eng.speaktranslate.deb
 Description: Unlimited translations, Offline translations, Ad free
-Depiction: https://kiengk0eng.github.io/depictions/speak/index.htmls
+Depiction: https://kiengk0eng.github.io/depictions/speak/index.html
 
 Package: com.kiengk0eng.topbrowser
 Name: Top Browser™ (Premium)!
@@ -787,7 +787,7 @@ Section: Productivity
 MD5sum: 88167847cf13baed7b88bca076bdc9a2
 Filename: debs//com.kiengk0eng.topbrowser.deb
 Description: Browser Anonymous, Bypass All Website Restrictions, Hide IP & Identity, No Annoying Popup Ads
-Depiction: https://kiengk0eng.github.io/depictions/topbrowser/index.htmls
+Depiction: https://kiengk0eng.github.io/depictions/topbrowser/index.html
 
 Package: com.kiengk0eng.ushareit
 Name: uShareit™ (Patch)!
@@ -802,7 +802,7 @@ Section: Productivity
 MD5sum: 0620ebe5829f38b60439992dcec00f80
 Filename: debs//com.kiengk0eng.ushareit.deb
 Description: Free Ads
-Depiction: https://kiengk0eng.github.io/depictions/ushareit/index.htmls
+Depiction: https://kiengk0eng.github.io/depictions/ushareit/index.html
 
 Package: com.kiengk0eng.vpnmaster
 Name: VPN Master™ (VIP)!
@@ -817,7 +817,7 @@ Section: Utilities
 MD5sum: 84077b388b3eed964b67a3c049c35e26
 Filename: debs//com.kiengk0eng.vpnmaster.deb
 Description: Faster Connection, Worldwide Server, No Ads
-Depiction: https://kiengk0eng.github.io/depictions/vpnmaster/index.htmls
+Depiction: https://kiengk0eng.github.io/depictions/vpnmaster/index.html
 
 Package: com.kiengk0eng.wattpad
 Name: Wattpad™ (Premium)!
@@ -832,7 +832,7 @@ Section: Social
 MD5sum: 4778ada8cf9f9d50cb907b466987d167
 Filename: debs//com.kiengk0eng.wattpad.deb
 Description: Uninterrupted ads-free experience, First access to new features
-Depiction: https://kiengk0eng.github.io/depictions/wattpad/index.htmls
+Depiction: https://kiengk0eng.github.io/depictions/wattpad/index.html
 
 Package: com.kiengk0eng.wpsoffice
 Name: WPS Office™ (VIP)!
@@ -847,7 +847,7 @@ Section: Productivity
 MD5sum: c0e032ac1addc936d49040b78a5871e4
 Filename: debs//com.kiengk0eng.wpsoffice.deb
 Description: PDF to World, Recording, File Slimmer, PDF Tools, PDF Reformer, Long Picture
-Depiction: https://kiengk0eng.github.io/depictions/wpsoffice/index.htmls
+Depiction: https://kiengk0eng.github.io/depictions/wpsoffice/index.html
 
 Package: com.kiengk0eng.truecaller
 Name: TrueCaller™ (Pro)!
@@ -862,4 +862,19 @@ Section: Productivity
 MD5sum: a44a96b90acdb11796455493a05c17cd
 Filename: debs//com.kiengk0eng.truecaller.deb
 Description: Get the pro badge on your profile, Get 30 contact request per mounth, Remove all ads
-Depiction: https://kiengk0eng.github.io/depictions/truecaller/index.htmls
+Depiction: https://kiengk0eng.github.io/depictions/truecaller/index.html
+
+Package: com.kiengk0eng.weatherlive
+Name: Weather™ Live (Premium)!
+Version: 5.8
+Size: 6270
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: Productivity
+MD5sum: 48dd012ea4c5c5c6366927af4a8ca7b6
+Filename: debs//com.kiengk0eng.weatherlive.deb
+Description: No Ads, Interactive weather maps, Hurricane tracker
+Depiction: https://kiengk0eng.github.io/depictions/weatherlive/index.html
