@@ -878,3 +878,18 @@ MD5sum: 48dd012ea4c5c5c6366927af4a8ca7b6
 Filename: debs//com.kiengk0eng.weatherlive.deb
 Description: No Ads, Interactive weather maps, Hurricane tracker
 Depiction: https://kiengk0eng.github.io/depictions/weatherlive/index.html
+
+Package: com.kiengk0eng.pianosmule
+Name: Magic Piano® Smule (VIP)!
+Version: 8.3.3
+Size: 6878
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: Entertainment
+MD5sum: be59345c8f0a087788fbcc6c8375785a
+Filename: debs//com.kiengk0eng.pianosmule.deb
+Description: All Access Pass
+Depiction: https://kiengk0eng.github.io/depictions/pianosmule/index.html
