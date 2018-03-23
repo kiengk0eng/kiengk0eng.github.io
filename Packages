@@ -610,16 +610,16 @@ Description: 286K Interactive Tabs, 7K Backing Track, Metronome, Guitar Tuner, S
 Depiction: https://kiengk0eng.github.io/depictions/ultimateguitar/index.html
 
 Package: com.kiengk0eng.vivavideo
-Name: VivaVideo™ (VIP)!
-Version: 6.2.8
-Size: 7168
+Name: VivaVideo™ (Platinum VIP)!
+Version: 6.3.0
+Size: 7362
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
 Author: Kiengk0eng <kiengk0eng@yahoo.com>
 Homepage: http://twitter.com/kiengk0eng
 Section: Multimedia
-MD5sum: 7acf21483ea3b8a55faa9c33defb001d
+MD5sum: 689e2cffe83b401e273d3fc04e34514e
 Filename: debs//com.kiengk0eng.vivavideo.deb
 Description: Watermark Remove, HD Export (1080), No Limite Time, No Ads, Video Adjustment, Animated Text, Free Materials Usage
 Depiction: https://kiengk0eng.github.io/depictions/vivavideo/index.html
