@@ -1,12 +1,12 @@
 Package: com.kiengk0eng.audiomack
 Name: AudioMack® (Platinum)!
 Size: 6088
-Version: 3.9.1
+Version: 3.9.2
 Architecture: iphoneos-arm
 Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
 Author: Kiengk0eng <kiengk0eng@yahoo.com>
 Section: Entertainment
-MD5sum: f3b97f869b6c7a849194bd88ce007419
+MD5sum: ab2c27f92c360eb0378316c259c4577a
 Filename: debs//com.kiengk0eng.audiomack.deb
 Description: Steam and download great new music, Save data 4 million offline song, Discover the hottest new trending music
 Depiction: https://kiengk0eng.github.io/depictions/audiomack/index.html
