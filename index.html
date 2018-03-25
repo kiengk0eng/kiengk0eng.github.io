@@ -25,32 +25,6 @@
 	  <canvas class="canvas"></canvas>
     </div>
   </div>
-  
-  			<script src="assets/js/canvas-video-player.js"></script>
-			<script>
-
-	var isIOS = /iPad|iPhone|iPod/.test(navigator.platform);
-
-	if (isIOS) {
-
-    var canvasVideo = new CanvasVideoPlayer({
-        videoSelector: '.video',
-        canvasSelector: '.canvas',
-        timelineSelector: false,
-        autoplay: true,
-        makeLoop: true,
-        pauseOnClick: false,
-        audio: true
-    });
-
-	}else {
-
-    // Use HTML5 video
-    document.querySelectorAll('.canvas')[0].style.display = 'none';
-
-	}   
-
-		</script>
 			
 			<div id="wrapper">
 			
@@ -84,5 +58,31 @@
 				}
 			</script>
 
+			  			<script src="assets/js/canvas-video-player.js"></script>
+			<script>
+
+	var isIOS = /iPad|iPhone|iPod/.test(navigator.platform);
+
+	if (isIOS) {
+
+    var canvasVideo = new CanvasVideoPlayer({
+        videoSelector: '.video',
+        canvasSelector: '.canvas',
+        timelineSelector: false,
+        autoplay: true,
+        makeLoop: true,
+        pauseOnClick: false,
+        audio: true
+    });
+
+	}else {
+
+    // Use HTML5 video
+    document.querySelectorAll('.canvas')[0].style.display = 'none';
+
+	}   
+
+		</script>
+			
 	</body>
 </html>
