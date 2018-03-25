@@ -7,6 +7,7 @@
 		<!--[if lte IE 8]><script src="assets/js/html5shiv.js"></script><![endif]-->
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<link rel="stylesheet" href="assets/css/style.css" />
+		<link rel="stylesheet" href="assets/css.iphone.css">
 		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
@@ -21,9 +22,35 @@
 		<div class="video-background">
     <div class="video-foreground">
       <iframe src="https://www.youtube.com/embed/O8PQ1vcTaoI?controls=0&showinfo=0&rel=0&autoplay=1&loop=1&playlist=O8PQ1vcTaoI&mute=" frameborder="0" allowfullscreen></iframe>
-	  
+	  <canvas class="canvas"></canvas>
     </div>
   </div>
+  
+  			<script src="assets/js/canvas-video-player.js"></script>
+			<script>
+
+	var isIOS = /iPad|iPhone|iPod/.test(navigator.platform);
+
+	if (isIOS) {
+
+    var canvasVideo = new CanvasVideoPlayer({
+        videoSelector: '.video',
+        canvasSelector: '.canvas',
+        timelineSelector: false,
+        autoplay: true,
+        makeLoop: true,
+        pauseOnClick: false,
+        audio: true
+    });
+
+	}else {
+
+    // Use HTML5 video
+    document.querySelectorAll('.canvas')[0].style.display = 'none';
+
+	}   
+
+		</script>
 			
 			<div id="wrapper">
 			
