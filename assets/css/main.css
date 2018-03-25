@@ -94,6 +94,7 @@
 		background-position: top left,		center center,		bottom center;
 		background-attachment: fixed,			fixed,				fixed;
 	}
+	
 
 		body:after {
 			content: '';
@@ -123,6 +124,22 @@
 			opacity: 1;
 		}
 
+		body
+		{
+	
+	}
+	#video_wrapper video
+	{
+	position: fixed;
+	top: 50%; left: 50%;
+	z-index: 1;
+	min-width: 100%;
+	min-height: 100%;
+	width: auto;
+	height: auto;
+	transform: translate(-50%, -50%);
+	}
+	
 /* Type */
 
 	body, input, select, textarea {
