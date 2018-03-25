@@ -719,12 +719,13 @@
 /* Main */
 
 	#main {
+		
 		position: relative;
 		max-width: 100%;
-		min-width: 27em;
+		min-width: 5em;
 		padding: 4.5em 3em 3em 3em ;
 		background: #ffffff;
-		border-radius: 4px;
+		border-radius: 5px;
 		cursor: default;
 		opacity: 0.95;
 		text-align: center;
