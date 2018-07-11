@@ -941,7 +941,7 @@ Depiction: https://kiengk0eng.github.io/depictions/focos/index.html
 
 Package: com.kiengk0eng.ulysses
 Name: Ulysses® (Subscription)!
-Version: 13.1
+Version: 13.1.0
 Size: 6686
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
@@ -951,5 +951,5 @@ Homepage: http://twitter.com/kiengk0eng
 Section: Productivity
 MD5sum: 401d87402ac62b1ce016a361e1b9fd97
 Filename: debs//com.kiengk0eng.ulysses.deb
-Description: Unlock All Professional Effect and More!
+Description: A Text Production Powerhouse, All Your Texts All the Time, Create eBooks, DOCX, PDFs and HTML and More!
 Depiction: https://kiengk0eng.github.io/depictions/ulysses/index.html
