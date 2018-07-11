@@ -921,5 +921,20 @@ Homepage: http://twitter.com/kiengk0eng
 Section: Productivity
 MD5sum: 0ee98b7bf5b3cdafc22b03aa0dad7e9c
 Filename: debs//com.kiengk0eng.carrot.deb
-Description: Access to all popular users,Find people nearby, Get a verified profile, Remove Ads
+Description: Unlock Customization, Notification, Weather Underground Data and More!
 Depiction: https://kiengk0eng.github.io/depictions/carrot/index.html
+
+Package: com.kiengk0eng.focos
+Name: Focos® (Lifetime Subscription Access)!
+Version: 1.4.4
+Size: 6350
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: Multimedia
+MD5sum: 5e94924c779a04196b15d8c5f311c8a4
+Filename: debs//com.kiengk0eng.focos.deb
+Description: Unlock All Professional Effect and More!
+Depiction: https://kiengk0eng.github.io/depictions/focos/index.html
