@@ -908,3 +908,18 @@ MD5sum: 1d297a6a0a7429e154763cd6b87a2fee
 Filename: debs//com.kiengk0eng.goadds.deb
 Description: Access to all popular users,Find people nearby, Get a verified profile, Remove Ads
 Depiction: https://kiengk0eng.github.io/depictions/goadds/index.html
+
+Package: com.kiengk0eng.carrot
+Name: Carrot® Weather (Ultrapremium)!
+Version: 4.7
+Size: 6400
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: Productivity
+MD5sum: 0EE98B7BF5B3CDAFC22B03AA0DAD7E9C
+Filename: debs//com.kiengk0eng.carrot.deb
+Description: Access to all popular users,Find people nearby, Get a verified profile, Remove Ads
+Depiction: https://kiengk0eng.github.io/depictions/carrot/index.html
