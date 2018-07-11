@@ -911,15 +911,15 @@ Depiction: https://kiengk0eng.github.io/depictions/goadds/index.html
 
 Package: com.kiengk0eng.carrot
 Name: Carrot® Weather (Ultrapremium)!
-Version: 4.7
-Size: 6400
+Version: 4.7.1
+Size: 6402
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
 Author: Kiengk0eng <kiengk0eng@yahoo.com>
 Homepage: http://twitter.com/kiengk0eng
 Section: Productivity
-MD5sum: 0ee98b7bf5b3cdafc22b03aa0dad7e9c
+MD5sum: da4666531c6d5653a1ba635b95c21b0f
 Filename: debs//com.kiengk0eng.carrot.deb
 Description: Unlock Customization, Notification, Weather Underground Data and More!
 Depiction: https://kiengk0eng.github.io/depictions/carrot/index.html
@@ -938,3 +938,18 @@ MD5sum: 5e94924c779a04196b15d8c5f311c8a4
 Filename: debs//com.kiengk0eng.focos.deb
 Description: Unlock All Professional Effect and More!
 Depiction: https://kiengk0eng.github.io/depictions/focos/index.html
+
+Package: com.kiengk0eng.ulysses
+Name: Ulysses® (Subscription)!
+Version: 13.1
+Size: 6686
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: Productivity
+MD5sum: 401d87402ac62b1ce016a361e1b9fd97
+Filename: debs//com.kiengk0eng.ulysses.deb
+Description: Unlock All Professional Effect and More!
+Depiction: https://kiengk0eng.github.io/depictions/ulysses/index.html
