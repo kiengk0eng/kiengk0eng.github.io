@@ -910,16 +910,16 @@ Description: Access to all popular users,Find people nearby, Get a verified prof
 Depiction: https://kiengk0eng.github.io/depictions/goadds/index.html
 
 Package: com.kiengk0eng.carrot
-Name: Carrot® Weather (Ultrapremium)!
+Name: Carrot® (Ultrapremium)!
 Version: 4.7
-Size: 6400
+Size: 6382
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
 Author: Kiengk0eng <kiengk0eng@yahoo.com>
 Homepage: http://twitter.com/kiengk0eng
 Section: Productivity
-MD5sum: 0e14a8cc0ffd07128f932bed6cd6fbd7
+MD5sum: 06b16b2faf5e4b1f95051fe6daa1801e
 Filename: debs//com.kiengk0eng.carrot.deb
 Description: Unlock Customization, Notification, Weather Underground Data and More!
 Depiction: https://kiengk0eng.github.io/depictions/carrot/index.html
@@ -927,14 +927,14 @@ Depiction: https://kiengk0eng.github.io/depictions/carrot/index.html
 Package: com.kiengk0eng.ulysses
 Name: Ulysses® (Student Subscription)!
 Version: 13.1
-Size: 6686
+Size: 6674
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
 Author: Kiengk0eng <kiengk0eng@yahoo.com>
 Homepage: http://twitter.com/kiengk0eng
 Section: Productivity
-MD5sum: 401d87402ac62b1ce016a361e1b9fd97
+MD5sum: f38fa1a0dda6df017a762e233df10bbd
 Filename: debs//com.kiengk0eng.ulysses.deb
 Description: A Text Production Powerhouse, All Your Texts All the Time, Create eBooks, DOCX, PDFs and HTML and More!
 Depiction: https://kiengk0eng.github.io/depictions/ulysses/index.html
