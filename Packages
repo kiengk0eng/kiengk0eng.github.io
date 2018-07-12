@@ -911,15 +911,15 @@ Depiction: https://kiengk0eng.github.io/depictions/goadds/index.html
 
 Package: com.kiengk0eng.carrot
 Name: Carrot® Weather (Ultrapremium)!
-Version: 4.7.1
-Size: 6402
+Version: 4.7
+Size: 6400
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
 Author: Kiengk0eng <kiengk0eng@yahoo.com>
 Homepage: http://twitter.com/kiengk0eng
 Section: Productivity
-MD5sum: da4666531c6d5653a1ba635b95c21b0f
+MD5sum: 0e14a8cc0ffd07128f932bed6cd6fbd7
 Filename: debs//com.kiengk0eng.carrot.deb
 Description: Unlock Customization, Notification, Weather Underground Data and More!
 Depiction: https://kiengk0eng.github.io/depictions/carrot/index.html
