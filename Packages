@@ -938,3 +938,18 @@ MD5sum: f38fa1a0dda6df017a762e233df10bbd
 Filename: debs//com.kiengk0eng.ulysses.deb
 Description: A Text Production Powerhouse, All Your Texts All the Time, Create eBooks, DOCX, PDFs and HTML and More!
 Depiction: https://kiengk0eng.github.io/depictions/ulysses/index.html
+
+Package: com.kiengk0eng.cguitar
+Name: COACH Guitar® (Premium Pass)!
+Version: 5.3.1
+Size: 6736
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: Entertainment
+MD5sum: c346471e36b30143a559b7604e64b44d
+Filename: debs//com.kiengk0eng.cguitar.deb
+Description: Unlimited access to all leasson, Available on all devices, Tablatures included, Backing track included, New leasson every weak, and More!
+Depiction: https://kiengk0eng.github.io/depictions/cguitar/index.html
