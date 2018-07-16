@@ -953,3 +953,18 @@ MD5sum: c346471e36b30143a559b7604e64b44d
 Filename: debs//com.kiengk0eng.cguitar.deb
 Description: Unlimited access to all leasson, Available on all devices, Tablatures included, Backing track included, New leasson every weak, and More!
 Depiction: https://kiengk0eng.github.io/depictions/cguitar/index.html
+
+Package: com.kiengk0eng.skout
+Name: Skout® (Premium Pass)!
+Version: 5.7.1
+Size: 7504
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: Social
+MD5sum: bc1a2d1e775864155b64d3ecf5767d7b
+Filename: debs//com.kiengk0eng.skout.deb
+Description: Unlimited access to all leasson, Available on all devices, Tablatures included, Backing track included, New leasson every weak, and More!
+Depiction: https://kiengk0eng.github.io/depictions/skout/index.html
