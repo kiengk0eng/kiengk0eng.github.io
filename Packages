@@ -759,7 +759,7 @@ Filename: debs//com.kiengk0eng.coloringbook.deb
 Description: Unlock all pictures, Use extra palletes, Enjoy more relaxing sound, Share without watermark, Remove ads
 Depiction: https://kiengk0eng.github.io/depictions/coloringbook/index.html
 
-Package: com.kiengk0eng.speaktranslate
+Package: com.kiengk0eng.speaktranslator
 Name: Speak & Translate™ (Premium)!
 Version: 4.3
 Size: 6850
@@ -770,7 +770,7 @@ Author: Kiengk0eng <kiengk0eng@yahoo.com>
 Homepage: http://twitter.com/kiengk0eng
 Section: Productivity
 MD5sum: 453a4f654939395265680ab2d8518b80
-Filename: debs//com.kiengk0eng.speaktranslate.deb
+Filename: debs//com.kiengk0eng.speaktranslator.deb
 Description: Unlimited translations, Offline translations, Ad free
 Depiction: https://kiengk0eng.github.io/depictions/speak/index.html
 
