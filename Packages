@@ -912,14 +912,14 @@ Depiction: https://kiengk0eng.github.io/depictions/goadds/index.html
 Package: com.kiengk0eng.carrot
 Name: Carrot® (Ultrapremium)!
 Version: 4.7
-Size: 6382
+Size: 6888
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
 Author: Kiengk0eng <kiengk0eng@yahoo.com>
 Homepage: http://twitter.com/kiengk0eng
 Section: Productivity
-MD5sum: 06b16b2faf5e4b1f95051fe6daa1801e
+MD5sum: 6070411639cc39b133a89e4790696a66
 Filename: debs//com.kiengk0eng.carrot.deb
 Description: Unlock Customization, Notification, Weather Underground Data and More!
 Depiction: https://kiengk0eng.github.io/depictions/carrot/index.html
