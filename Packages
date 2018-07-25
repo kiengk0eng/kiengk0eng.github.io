@@ -221,15 +221,15 @@ Depiction: https://kiengk0eng.github.io/depictions/keepsafe/index.html
 
 Package: com.kiengk0eng.kinemaster
 Name: KineMaster® (Premium)!
-Version: 4.3.2
-Size: 6654
+Version: 4.5.1
+Size: 6648
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
 Author: Kiengk0eng <kiengk0eng@yahoo.com>
 Homepage: http://twitter.com/kiengk0eng
 Section: Multimedia
-MD5sum: 81993054c95c2fd9e75cabb2e19a8ffd
+MD5sum: 0cba041dc9f480324276406bcd2f6c96
 Filename: debs//com.kiengk0eng.kinemaster.deb
 Description: Remove Watermark, Premium Content
 Depiction: https://kiengk0eng.github.io/depictions/kinemaster/index.html
@@ -295,7 +295,7 @@ Description: Unlimited Bacth Like, Unlimited Auto Like, Opening Lines, Filter Fa
 Depiction: https://kiengk0eng.github.io/depictions/matchplus/index.html
 
 Package: com.kiengk0eng.musixmatch
-Name: Musixmacth® (Purchased)!
+Name: Musixmatch® (Purchased)!
 Version: 7.0.6
 Size: 6478
 Depends: mobilesubstrate
@@ -968,3 +968,18 @@ MD5sum: bc1a2d1e775864155b64d3ecf5767d7b
 Filename: debs//com.kiengk0eng.skout.deb
 Description: Boost your Popularity, No More Ads, Rise to the Top, skip to the Front!
 Depiction: https://kiengk0eng.github.io/depictions/skout/index.html
+
+Package: com.kiengk0eng.duolingo
+Name: Duolingo® (Plus)!
+Version: 5.2.34
+Size: 6704
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: Productivity
+MD5sum: 2eeafcb570dca7e34f9c6b731043b72f
+Filename: debs//com.kiengk0eng.duolingo.deb
+Description: No Ads, Hassle Free, Offline Saving, Support Free Education and More!
+Depiction: https://kiengk0eng.github.io/depictions/duolingo/index.html
