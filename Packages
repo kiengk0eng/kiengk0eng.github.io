@@ -983,3 +983,18 @@ MD5sum: 2eeafcb570dca7e34f9c6b731043b72f
 Filename: debs//com.kiengk0eng.duolingo.deb
 Description: No Ads, Hassle Free, Offline Saving, Support Free Education and More!
 Depiction: https://kiengk0eng.github.io/depictions/duolingo/index.html
+
+Package: me.kiengk0eng.memrise
+Name: Memrise (PRO)!
+Version: 2.3.36.7348
+Size: 6602
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: Productivity
+MD5sum: 68db54b30ef26010d583f51d57eeb76e
+Filename: debs//me.kiengk0eng.memrise.deb
+Description: Learn with local, Pronunciation, Listening skills, Grammarbot, Chatbots, Difficult words, Speed review, learn offline, Hints!
+Depiction: https://kiengk0eng.github.io/depictions/memrise/index.html
