@@ -998,3 +998,18 @@ MD5sum: 68db54b30ef26010d583f51d57eeb76e
 Filename: debs//me.kiengk0eng.memrise.deb
 Description: Learn with local, Pronunciation, Listening skills, Grammarbot, Chatbots, Difficult words, Speed review, learn offline, Hints!
 Depiction: https://kiengk0eng.github.io/depictions/memrise/index.html
+
+Package: com.kiengk0eng.geozilla
+Name: Geozilla® (Premium)!
+Version: 4.7
+Size: 5834
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: Navigation
+MD5sum: cb3a50fad17899bb93f538bcbcb22b6b
+Filename: debs//com.kiengk0eng.geozilla.deb
+Description: Invisible Mode, Schedule Alerts, Location History For Every Day, Unlimited Circles, Connect Wearables!
+Depiction: https://kiengk0eng.github.io/depictions/geozilla/index.html
