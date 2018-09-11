@@ -1013,3 +1013,33 @@ MD5sum: cb3a50fad17899bb93f538bcbcb22b6b
 Filename: debs//com.kiengk0eng.geozilla.deb
 Description: Invisible Mode, Schedule Alerts, Location History For Every Day, Unlimited Circles, Connect Wearables!
 Depiction: https://kiengk0eng.github.io/depictions/geozilla/index.html
+
+Package: com.kiengk0eng.vsp
+Name: Videoshop® (PRO)!
+Version: 7.3.6
+Size: 7286
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: Multimedia
+MD5sum: 9c99783f9cc90dcb37f534de13a27de0
+Filename: debs//com.kiengk0eng.videoshop.deb
+Description: Trim, Sound effects, Slow motion, Adjust Display, Merger, Animated titles, Filters, Transitions and more!
+Depiction: https://kiengk0eng.github.io/depictions/videoshop/index.html
+
+Package: com.kiengk0eng.sundanese
+Name: Translate Assistant® (Pro~Premium)!
+Version: 1.0.9
+Size: 6764
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: Productivity
+MD5sum: 900dc39bf73afc1319eadf15e8297d16
+Filename: debs//com.kiengk0eng.translateassistant.deb
+Description: Unlimited Translation, No Ads!
+Depiction: https://kiengk0eng.github.io/depictions/translateassistant/index.html
