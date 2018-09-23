@@ -235,7 +235,7 @@ Description: Remove Watermark, Premium Content
 Depiction: https://kiengk0eng.github.io/depictions/kinemaster/index.html
 
 Package: com.kiengk0eng.livewallpapers
-Name: LiveWallpapers® (Premium)!
+Name: Live Wallpapers Now® (Premium)!
 Version: 2.5.2
 Size: 6254
 Depends: mobilesubstrate
@@ -1043,3 +1043,33 @@ MD5sum: 900dc39bf73afc1319eadf15e8297d16
 Filename: debs//com.kiengk0eng.translateassistant.deb
 Description: Unlimited Translation, No Ads!
 Depiction: https://kiengk0eng.github.io/depictions/translateassistant/index.html
+
+Package: com.kiengk0eng.supervpn
+Name: SuperVPN® (Premium)!
+Version: 1.1
+Size: 6204
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: Utilities
+MD5sum: 1a1758e1c436bdf9b7059df49fdde9aa
+Filename: debs//com.kiengk0eng.supervpn.deb
+Description: Faster Connection, Worlwide Server, No Ads, Unlimited Bandwidth!
+Depiction: https://kiengk0eng.github.io/depictions/supervpn/index.html
+
+Package: com.kiengk0eng.livewall
+Name: Live Wallpapers® (VIP Access)!
+Version: 1.11
+Size: 7060
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: Multimedia
+MD5sum: 2be1ea850337f725a91b66852193500b
+Filename: debs//com.kiengk0eng.livewall.deb
+Description: Unlock all PREMIUM content, Daily new Live Wallpapers, Remove Ads!
+Depiction: https://kiengk0eng.github.io/depictions/livewall/index.html
