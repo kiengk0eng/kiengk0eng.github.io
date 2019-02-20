@@ -1088,3 +1088,18 @@ MD5sum: eaee0c0ec529f1f73b03322a0aa1b8ad
 Filename: debs//com.kiengk0eng.imopre.deb
 Description: No Ads, 25GB Cloud Storage for your photos and videos, And more coming soon!
 Depiction: https://kiengk0eng.github.io/depictions/imopre/index.html
+
+Package: com.kiengk0eng.coursehero
+Name: Course Hero™ (Premier Subscription)!
+Version: 1.8.74
+Size: 3932
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: Productivity
+MD5sum: 505b897a09d8f4be6cfa0dde920c1c3a
+Filename: debs//com.kiengk0eng.coursehero.deb
+Description: Download 30 material study per month, Ask up to 40 Tutor Questions, Get 24/7 homework help from our tutors, Access our library of ten million study resources!
+Depiction: https://kiengk0eng.github.io/depictions/coursehero/index.html
