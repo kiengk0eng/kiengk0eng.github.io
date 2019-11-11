@@ -25,7 +25,7 @@ Description: All Access Pass - Play or remix with any beat from our library
 Depiction: https://kiengk0eng.github.io/depictions/autorap/index.html
 
 Package: com.kiengk0eng.boom
-Name: Boom® Player (Purchased)!
+Name: Boom® EQ|Player (Purchased)!
 Version: 1.2.5
 Size: 5906
 Depends: mobilesubstrate
@@ -36,6 +36,21 @@ Homepage: http://twitter.com/kiengk0eng
 Section: Entertainment
 MD5sum: c282bc9e6cf646c3addf88d8ff1d3fdf
 Filename: debs//com.kiengk0eng.boom.deb
+Description: Remove Ads, Enjoy 3D Surround, All EQ and Full Intensity Control
+Depiction: https://kiengk0eng.github.io/depictions/boom/index.html
+
+Package: com.kiengk0eng.boom
+Name: Boom® EQ|Player (Purchased)!
+Version: 1.4.7
+Size: 8324
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: Entertainment
+MD5sum: 2156fc3444ce842b3730c140237dfda8
+Filename: debs//com.kiengk0eng.boom-1.4.7.deb
 Description: Remove Ads, Enjoy 3D Surround, All EQ and Full Intensity Control
 Depiction: https://kiengk0eng.github.io/depictions/boom/index.html
 
@@ -51,6 +66,21 @@ Homepage: http://twitter.com/kiengk0eng
 Section: Utilities
 MD5sum: 900072b13efee9bdd0623d18982b2259
 Filename: debs//com.kiengk0eng.betternet.deb
+Description: Faster Connection, Worldwide Location, Remove Ads
+Depiction: https://kiengk0eng.github.io/depictions/betternet/index.html
+
+Package: com.kiengk0eng.betternet
+Name: Betternet® VPN (Premium)!
+Version: 5.1.0
+Size: 9098
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: Utilities
+MD5sum: 0790d1fcf81efbac5c4e5c54c9138a0f
+Filename: debs//com.kiengk0eng.betternet-5.1.0.deb
 Description: Faster Connection, Worldwide Location, Remove Ads
 Depiction: https://kiengk0eng.github.io/depictions/betternet/index.html
 
@@ -201,6 +231,21 @@ Homepage: http://twitter.com/kiengk0eng
 Section: Entertainment
 MD5sum: c394640f75d2e8d65c123a0791fc1720
 Filename: debs//com.kiengk0eng.joox.deb
+Description: Streaming or Download with High Quality, K-Plus with Unlimited Save Your Song, DTS (Lifetime)
+Depiction: https://kiengk0eng.github.io/depictions/joox/index.html
+
+Package: com.kiengk0eng.joox
+Name: JOOX® Music (VVIP)!
+Version: 5.5.2.1
+Size: 13384
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: Entertainment
+MD5sum: 3780a91504891c9458c37c8cd4bfa16a
+Filename: debs//com.kiengk0eng.joox-5.5.2.1.deb
 Description: Streaming or Download with High Quality, K-Plus with Unlimited Save Your Song, DTS (Lifetime)
 Depiction: https://kiengk0eng.github.io/depictions/joox/index.html
 
@@ -828,9 +873,24 @@ Architecture: iphoneos-arm
 Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
 Author: Kiengk0eng <kiengk0eng@yahoo.com>
 Homepage: http://twitter.com/kiengk0eng
-Section: Social
+Section: Productivity
 MD5sum: 4778ada8cf9f9d50cb907b466987d167
 Filename: debs//com.kiengk0eng.wattpad.deb
+Description: Uninterrupted ads-free experience, First access to new features
+Depiction: https://kiengk0eng.github.io/depictions/wattpad/index.html
+
+Package: com.kiengk0eng.wattpad
+Name: Wattpad™ (Premium)!
+Version: 8.38.1
+Size: 8858
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: Productivity
+MD5sum: e06578d3efdd214c48057afc2921c1b5
+Filename: debs//com.kiengk0eng.wattpad-8.38.1.deb
 Description: Uninterrupted ads-free experience, First access to new features
 Depiction: https://kiengk0eng.github.io/depictions/wattpad/index.html
 
@@ -1089,6 +1149,21 @@ Filename: debs//com.kiengk0eng.imopre.deb
 Description: No Ads, 25GB Cloud Storage for your photos and videos, And more coming soon!
 Depiction: https://kiengk0eng.github.io/depictions/imopre/index.html
 
+Package: com.kiengk0eng.imopre
+Name: IMO™ Video Calls & Chats (Premium Account)!
+Version: 2019.11.0101
+Size: 8166
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: Social
+MD5sum: 0e59acf5f2c0a39903f28ba9edfbc119
+Filename: debs//com.kiengk0eng.imo-2019.11.0101.deb
+Description: No Ads, 25GB Cloud Storage for your photos and videos, And more coming soon!
+Depiction: https://kiengk0eng.github.io/depictions/imopre/index.html
+
 Package: com.kiengk0eng.coursehero
 Name: Course Hero™ (Premier Subscription)!
 Version: 1.8.74
@@ -1102,4 +1177,33 @@ Section: Productivity
 MD5sum: 505b897a09d8f4be6cfa0dde920c1c3a
 Filename: debs//com.kiengk0eng.coursehero.deb
 Description: Download 30 material study per month, Ask up to 40 Tutor Questions, Get 24/7 homework help from our tutors, Access our library of ten million study resources!
-Depiction: https://kiengk0eng.github.io/depictions/coursehero/index.html
+
+Package: com.kiengk0eng.piccollage
+Name: PicCollage™ (VIP)!
+Version: 7.56.1
+Size: 9158
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: Multimedia
+MD5sum: ed043c8d60f5e5779207334616dd45ab
+Filename: debs//com.kiengk0eng.piccollage-7.56.1.deb
+Description: noADS, Allow access all Premium sticker!
+Depiction: https://kiengk0eng.github.io/depictions/piccollage/index.html
+
+Package: com.kiengk0eng.camera360
+Name: Camera360™ (VIP)!
+Version: 9.6.4
+Size: 9676
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: Multimedia
+MD5sum: 474f02e3a0372aa1bc19808c133dcd99
+Filename: debs//com.kiengk0eng.camera360-9.6.4.deb
+Description: noADS, All Access Pass, Filter Package!
+Depiction: https://kiengk0eng.github.io/depictions/camera360/index.html
