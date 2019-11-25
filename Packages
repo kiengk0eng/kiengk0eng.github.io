@@ -1207,3 +1207,17 @@ MD5sum: 474f02e3a0372aa1bc19808c133dcd99
 Filename: debs//com.kiengk0eng.camera360-9.6.4.deb
 Description: noADS, All Access Pass, Filter Package!
 Depiction: https://kiengk0eng.github.io/depictions/camera360/index.html
+
+Package: com.kiengk0eng.boots.deb
+Name: BootS™ (sound like macOS)!
+Version: 1.0.0
+Size: 925304
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: Tweak
+MD5sum: 71ac4c222b9d5464ea92e97c189dc333
+Filename: debs//com.kiengk0eng.boots.deb
+Description: Real macOS Sound (Respring, Lock, Unlock, Close) - Configure from setting!
