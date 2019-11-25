@@ -1,0 +1,11 @@
+Origin: Kiengk0eng
+Label: kiengk0eng's Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: kiengk0eng's Tweak
+MD5Sum:
+ aa83d93679ecab8a25ddab0f8cf00a86 44326  Packages
+ 791e778ba46e0ffca9c593623380ef82 7329 Packages.bz2
