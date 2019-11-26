@@ -279,6 +279,21 @@ Filename: debs//com.kiengk0eng.kinemaster.deb
 Description: Remove Watermark, Premium Content
 Depiction: https://kiengk0eng.github.io/depictions/kinemaster/index.html
 
+Package: com.kiengk0eng.kinemaster
+Name: KineMaster® (Premium)!
+Version: 4.11.5.1179
+Size: 5890
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: Multimedia
+MD5sum: e75632a53f2c257202933c510a464861
+Filename: debs//com.kiengk0eng.kinemaster-4.11.5.1179.deb
+Description: Remove Watermark, Premium Content
+Depiction: https://kiengk0eng.github.io/depictions/kinemaster/index.html
+
 Package: com.kiengk0eng.livewallpapers
 Name: Live Wallpapers Now® (Premium)!
 Version: 2.5.2
@@ -306,6 +321,21 @@ Homepage: http://twitter.com/kiengk0eng
 Section: Multimedia
 MD5sum: bd3557f7f14976888b012191bb73caf7
 Filename: debs//com.kiengk0eng.manlypro.deb
+Description: Access All Features - Over 1000 Styles & Many More
+Depiction: https://kiengk0eng.github.io/depictions/manlypro/index.html
+
+Package: com.kiengk0eng.manlypro
+Name: Manly® (PRO)!
+Version: 3.0.4
+Size: 5442
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: Multimedia
+MD5sum: 92c3155ced7d7f69999516652bf133f4
+Filename: debs//com.kiengk0eng.manly-3.0.4.deb
 Description: Access All Features - Over 1000 Styles & Many More
 Depiction: https://kiengk0eng.github.io/depictions/manlypro/index.html
 
@@ -1207,3 +1237,47 @@ MD5sum: 474f02e3a0372aa1bc19808c133dcd99
 Filename: debs//com.kiengk0eng.camera360-9.6.4.deb
 Description: noADS, All Access Pass, Filter Package!
 Depiction: https://kiengk0eng.github.io/depictions/camera360/index.html
+
+Package: com.kiengk0eng.boots
+Name: BootS™ (sound like macOS)!
+Version: 1.0.0
+Size: 925318
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: Tweak
+MD5sum: 94b5540dc0424f56f040694de07529eb
+Filename: debs//com.kiengk0eng.boots.deb
+Description: Real macOS Sound (Respring, Lock, Unlock, Close) - Configure from setting!
+
+Package: com.kiengk0eng.wedrums
+Name: WeDrums™ (Premium)!
+Version: 3.32
+Size: 7082
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: Entertainment
+MD5sum: 1b9a1382c6e69d8759b634376150fa5a
+Filename: debs//com.kiengk0eng.wedrums.deb
+Description: Unlimited All Access, Premium Contents!
+Depiction: https://kiengk0eng.github.io/depictions/wedrums/index.html
+
+Package: com.kiengk0eng.audioeditor
+Name: Audio Editor Tools® (Premium)!
+Version: 12.2.5
+Size: 5892
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
+Author: Kiengk0eng <kiengk0eng@yahoo.com>
+Homepage: http://twitter.com/kiengk0eng
+Section: Multimedia
+MD5sum: aad8979b9cc60acc67fed5d92fe9a898
+Filename: debs//com.kiengk0eng.audioeditor.deb
+Description: Access to music from cloud storage, Adding tracks with no restrictions, Access to all effect, unlimited recording, video upload, New audio formats, No ads!
+Depiction: https://kiengk0eng.github.io/depictions/audioeditor/index.html
