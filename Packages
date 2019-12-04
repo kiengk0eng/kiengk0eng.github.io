@@ -1293,6 +1293,7 @@ Maintainer: Kiengk0eng <kiengk0eng@yahoo.com>
 Author: Kiengk0eng <kiengk0eng@yahoo.com>
 Homepage: http://twitter.com/kiengk0eng
 Section: Tweak
+Conflicts: com.kiengk0eng.camera360, com.kiengk0eng.joox, com.kiengk0eng.kinemaster, com.kiengk0eng.audioeditor, com.kiengk0eng.overpremium
 MD5sum: ca07b233b83ec73e6ffa5f4ddcdb3ce4
 Filename: debs//com.kiengk0eng.iprobox.deb
 Description: Get PRO~Premium~VIP features with one tool box, Configure from setting!
