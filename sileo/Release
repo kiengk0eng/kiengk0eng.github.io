@@ -1,0 +1,12 @@
+Origin: Kiengk0eng
+Label: Kiengk0eng
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: CrackeD iOS App
+
+SHA256:
+ bcaf7da52e91a58ae574c1d057ca21ad84dd3c340d26848e204c5c7695033821 2970 Packages.bz2
+ c13991982d3971ec494c147f39b20daaedaa562a4f37611e7ae7bcc61955bb5d 2912 Packages.xz
