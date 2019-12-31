@@ -1,11 +1,12 @@
 Origin: Kiengk0eng
-Label: kiengk0eng's Repo
+Label: Kiengk0eng
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: kiengk0eng's Tweak
-MD5Sum:
- 7c60226a167ee551705ab8e7c60b6bac 47003 Packages
- d9fbc399f241201da886f8f975ba151e 7808 Packages.bz2
+Description: CrackeD iOS App
+
+SHA256:
+ 45034f1749c94850868255dbcee55f73f5042ad90bdc44524ee40b405beadba8 6159 Packages.bz2
+ bbdc77c17cae195da9ba4a0b9f740e56a66b5643733bfd30397c8d6f67bb72b5 6192 Packages.xz
