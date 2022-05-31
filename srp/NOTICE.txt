@@ -1,0 +1,1 @@
+Using this data is only allowed with a valid licence of the jQuery Slider Revolution Plugin, which can be found at: https://www.themepunch.com/links/slider_revolution_jquery
